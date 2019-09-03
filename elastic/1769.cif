@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn(AsO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.72193855
+_cell_length_b   8.72193188
+_cell_length_c   5.90052841
+_cell_angle_alpha   89.99998922
+_cell_angle_beta   89.99980252
+_cell_angle_gamma   89.99986316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(AsO2)2
+_chemical_formula_sum   'Mn4 As8 O16'
+_cell_volume   448.86590526
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn1  1  0.999996  0.500000  0.249999  1.0
+  Mn  Mn2  1  0.999999  0.500002  0.750000  1.0
+  Mn  Mn3  1  0.500003  0.999998  0.250000  1.0
+  Mn  Mn4  1  0.500001  0.999999  0.750002  1.0
+  As  As5  1  0.176074  0.807533  0.500000  1.0
+  As  As6  1  0.192464  0.176067  0.000002  1.0
+  As  As7  1  0.307533  0.676073  0.000001  1.0
+  As  As8  1  0.323918  0.307533  0.500001  1.0
+  As  As9  1  0.676068  0.692461  0.500002  1.0
+  As  As10  1  0.692468  0.323920  0.000001  1.0
+  As  As11  1  0.807531  0.823920  0.000000  1.0
+  As  As12  1  0.823932  0.192462  0.500001  1.0
+  O  O13  1  0.108789  0.641121  0.000000  1.0
+  O  O14  1  0.141120  0.608790  0.499999  1.0
+  O  O15  1  0.185360  0.314628  0.250001  1.0
+  O  O16  1  0.185359  0.314626  0.749999  1.0
+  O  O17  1  0.314631  0.814637  0.249997  1.0
+  O  O18  1  0.314638  0.814628  0.749996  1.0
+  O  O19  1  0.358882  0.108790  0.499999  1.0
+  O  O20  1  0.391209  0.141119  0.000001  1.0
+  O  O21  1  0.608787  0.858875  0.000000  1.0
+  O  O22  1  0.641117  0.891206  0.500001  1.0
+  O  O23  1  0.685374  0.185358  0.250000  1.0
+  O  O24  1  0.685373  0.185361  0.750001  1.0
+  O  O25  1  0.814627  0.685358  0.249999  1.0
+  O  O26  1  0.814630  0.685360  0.749999  1.0
+  O  O27  1  0.858881  0.391206  0.500000  1.0
+  O  O28  1  0.891212  0.358878  0.999998  1.0

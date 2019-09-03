@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_ZrInCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.54037428
+_cell_length_b   4.54056212
+_cell_length_c   4.53836246
+_cell_angle_alpha   59.96206881
+_cell_angle_beta   59.96335623
+_cell_angle_gamma   59.99301368
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrInCu2
+_chemical_formula_sum   'Zr1 In1 Cu2'
+_cell_volume   66.11767123
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  0.499942  0.500321  0.499894  1.0
+  In  In2  1  0.999903  0.999910  0.000174  1.0
+  Cu  Cu3  1  0.250035  0.249924  0.249947  1.0
+  Cu  Cu4  1  0.750120  0.749845  0.749985  1.0

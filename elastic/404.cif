@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li3FeF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.97167802
+_cell_length_b   4.97164113
+_cell_length_c   4.93631817
+_cell_angle_alpha   89.99909659
+_cell_angle_beta   90.00160280
+_cell_angle_gamma   120.00016846
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3FeF6
+_chemical_formula_sum   'Li3 Fe1 F6'
+_cell_volume   105.66613094
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.333323  0.666667  0.500001  1.0
+  Li  Li2  1  0.999990  0.999996  0.500006  1.0
+  Li  Li3  1  0.666655  0.333332  0.500000  1.0
+  Fe  Fe4  1  0.999998  0.000013  0.999969  1.0
+  F  F5  1  0.999986  0.693360  0.742073  1.0
+  F  F6  1  0.999988  0.306635  0.257936  1.0
+  F  F7  1  0.306629  0.306645  0.742075  1.0
+  F  F8  1  0.306630  0.999998  0.257947  1.0
+  F  F9  1  0.693349  0.693358  0.257937  1.0
+  F  F10  1  0.693353  0.999998  0.742057  1.0

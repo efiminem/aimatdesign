@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Y2Re2Si2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00780563
+_cell_length_b   5.82986486
+_cell_length_c   5.99500986
+_cell_angle_alpha   71.97311641
+_cell_angle_beta   70.47234514
+_cell_angle_gamma   69.89567531
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Re2Si2C
+_chemical_formula_sum   'Y2 Re2 Si2 C1'
+_cell_volume   120.93947987
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y1  1  0.427406  0.844792  0.300397  1.0
+  Y  Y2  1  0.572594  0.155208  0.699603  1.0
+  Re  Re3  1  0.792653  0.322233  0.092461  1.0
+  Re  Re4  1  0.207347  0.677767  0.907539  1.0
+  Si  Si5  1  0.857627  0.602155  0.682592  1.0
+  Si  Si6  1  0.142373  0.397845  0.317408  1.0
+  C  C7  1  0.000000  0.000000  0.000000  1.0

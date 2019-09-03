@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Zn2GeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.75107293
+_cell_length_b   10.05760939
+_cell_length_c   6.39780411
+_cell_angle_alpha   29.53586736
+_cell_angle_beta   52.71896912
+_cell_angle_gamma   39.45576182
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2GeS4
+_chemical_formula_sum   'Zn2 Ge1 S4'
+_cell_volume   152.73388388
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.003209  0.997426  0.001556  1.0
+  Zn  Zn2  1  0.500021  0.998122  0.005215  1.0
+  Ge  Ge3  1  0.249852  0.500263  0.000592  1.0
+  S  S4  1  0.119400  0.993737  0.274064  1.0
+  S  S5  1  0.614473  0.007610  0.258535  1.0
+  S  S6  1  0.381329  0.496391  0.238284  1.0
+  S  S7  1  0.886642  0.499980  0.235348  1.0

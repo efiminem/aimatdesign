@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_UTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76698866
+_cell_length_b   5.34244401
+_cell_length_c   6.53019400
+_cell_angle_alpha   70.39693284
+_cell_angle_beta   73.23610164
+_cell_angle_gamma   69.35645608
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UTi2O6
+_chemical_formula_sum   'U1 Ti2 O6'
+_cell_volume   113.67503341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U1  1  0.000000  0.000000  0.000000  1.0
+  Ti  Ti2  1  0.823652  0.742860  0.609836  1.0
+  Ti  Ti3  1  0.176348  0.257140  0.390164  1.0
+  O  O4  1  0.279790  0.844052  0.596367  1.0
+  O  O5  1  0.720210  0.155948  0.403633  1.0
+  O  O6  1  0.647057  0.806639  0.899247  1.0
+  O  O7  1  0.024659  0.649721  0.300962  1.0
+  O  O8  1  0.975341  0.350279  0.699038  1.0
+  O  O9  1  0.352943  0.193361  0.100753  1.0

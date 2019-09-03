@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_ScAg4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11873850
+_cell_length_b   5.15791168
+_cell_length_c   5.15791167
+_cell_angle_alpha   80.82723952
+_cell_angle_beta   66.46781454
+_cell_angle_gamma   66.46781463
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAg4
+_chemical_formula_sum   'Sc1 Ag4'
+_cell_volume   92.10755962
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc1  1  0.000000  0.000000  0.000000  1.0
+  Ag  Ag2  1  0.200118  0.200300  0.399464  1.0
+  Ag  Ag3  1  0.599582  0.600536  0.200300  1.0
+  Ag  Ag4  1  0.400418  0.399464  0.799700  1.0
+  Ag  Ag5  1  0.799882  0.799700  0.600536  1.0

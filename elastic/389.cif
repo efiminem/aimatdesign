@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NaAlP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31799723
+_cell_length_b   6.66650571
+_cell_length_c   8.66717703
+_cell_angle_alpha   112.61838415
+_cell_angle_beta   111.37548470
+_cell_angle_gamma   90.00000001
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaAlP2
+_chemical_formula_sum   'K4 Na2 Al2 P4'
+_cell_volume   309.59485877
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K1  1  0.823586  0.079820  0.647172  1.0
+  K  K2  1  0.176414  0.920180  0.352828  1.0
+  K  K3  1  0.676540  0.432321  0.353080  1.0
+  K  K4  1  0.323460  0.567679  0.646920  1.0
+  Na  Na5  1  0.250022  0.500000  0.000000  1.0
+  Na  Na6  1  0.749978  0.500000  0.000000  1.0
+  Al  Al7  1  0.749991  0.000000  0.000000  1.0
+  Al  Al8  1  0.250009  0.000000  0.000000  1.0
+  P  P9  1  0.091195  0.288326  0.182391  1.0
+  P  P10  1  0.591175  0.893979  0.182349  1.0
+  P  P11  1  0.408825  0.106021  0.817651  1.0
+  P  P12  1  0.908805  0.711674  0.817609  1.0

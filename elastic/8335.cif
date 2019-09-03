@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca3AlN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13890870
+_cell_length_b   6.90248092
+_cell_length_c   9.85525407
+_cell_angle_alpha   93.78924909
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3AlN3
+_chemical_formula_sum   'Ca12 Al4 N12'
+_cell_volume   416.69065216
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.781986  0.354086  0.305796  1.0
+  Ca  Ca2  1  0.281986  0.645914  0.194204  1.0
+  Ca  Ca3  1  0.218014  0.645914  0.694204  1.0
+  Ca  Ca4  1  0.718014  0.354086  0.805796  1.0
+  Ca  Ca5  1  0.793724  0.628537  0.076350  1.0
+  Ca  Ca6  1  0.293724  0.371463  0.423650  1.0
+  Ca  Ca7  1  0.206276  0.371463  0.923650  1.0
+  Ca  Ca8  1  0.706276  0.628537  0.576350  1.0
+  Ca  Ca9  1  0.641172  0.922873  0.349532  1.0
+  Ca  Ca10  1  0.141172  0.077127  0.150468  1.0
+  Ca  Ca11  1  0.358828  0.077127  0.650468  1.0
+  Ca  Ca12  1  0.858828  0.922873  0.849532  1.0
+  Al  Al13  1  0.908874  0.160181  0.560302  1.0
+  Al  Al14  1  0.408874  0.839819  0.939698  1.0
+  Al  Al15  1  0.091126  0.839819  0.439698  1.0
+  Al  Al16  1  0.591126  0.160181  0.060302  1.0
+  N  N17  1  0.568345  0.661012  0.823019  1.0
+  N  N18  1  0.068345  0.338988  0.676981  1.0
+  N  N19  1  0.431655  0.338988  0.176981  1.0
+  N  N20  1  0.931655  0.661012  0.323019  1.0
+  N  N21  1  0.623372  0.259275  0.528873  1.0
+  N  N22  1  0.123372  0.740725  0.971127  1.0
+  N  N23  1  0.376628  0.740725  0.471127  1.0
+  N  N24  1  0.876628  0.259275  0.028873  1.0
+  N  N25  1  0.537848  0.896070  0.117659  1.0
+  N  N26  1  0.037848  0.103930  0.382341  1.0
+  N  N27  1  0.462152  0.103930  0.882341  1.0
+  N  N28  1  0.962152  0.896070  0.617659  1.0

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ScBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78308301
+_cell_length_b   5.91903836
+_cell_length_c   5.78313895
+_cell_angle_alpha   119.25455031
+_cell_angle_beta   59.99415915
+_cell_angle_gamma   119.25427244
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScBiO3
+_chemical_formula_sum   'Sc2 Bi2 O6'
+_cell_volume   141.52823276
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc1  1  0.220520  0.661607  0.220546  1.0
+  Sc  Sc2  1  0.720555  0.161606  0.720516  1.0
+  Bi  Bi3  1  0.005783  0.017355  0.005705  1.0
+  Bi  Bi4  1  0.505698  0.517356  0.505788  1.0
+  O  O5  1  0.045974  0.352184  0.427434  1.0
+  O  O6  1  0.546026  0.852012  0.378691  1.0
+  O  O7  1  0.378720  0.852074  0.927419  1.0
+  O  O8  1  0.427421  0.352074  0.878720  1.0
+  O  O9  1  0.878694  0.352012  0.046027  1.0
+  O  O10  1  0.927430  0.852179  0.545974  1.0

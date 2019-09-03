@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_LiCe2HO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49950684
+_cell_length_b   3.75013016
+_cell_length_c   6.78071252
+_cell_angle_alpha   106.05316227
+_cell_angle_beta   104.95431070
+_cell_angle_gamma   89.99999792
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCe2HO3
+_chemical_formula_sum   'Li1 Ce2 H1 O3'
+_cell_volume   82.37669453
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.000000  0.000000  0.000000  1.0
+  Ce  Ce2  1  0.361785  0.361785  0.723569  1.0
+  Ce  Ce3  1  0.638215  0.638215  0.276431  1.0
+  H  H4  1  0.500000  0.000000  0.000000  1.0
+  O  O5  1  0.000000  0.500000  0.000000  1.0
+  O  O6  1  0.823062  0.823062  0.646125  1.0
+  O  O7  1  0.176938  0.176938  0.353875  1.0

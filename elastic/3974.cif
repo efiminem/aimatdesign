@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TiSiRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49894894
+_cell_length_b   7.08576043
+_cell_length_c   7.38707752
+_cell_angle_alpha   118.65962146
+_cell_angle_beta   116.09662443
+_cell_angle_gamma   89.99999836
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiSiRu
+_chemical_formula_sum   'Ti6 Si6 Ru6'
+_cell_volume   258.28189399
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.912261  0.245908  0.991816  1.0
+  Ti  Ti2  1  0.493170  0.973307  0.446615  1.0
+  Ti  Ti3  1  0.046557  0.026693  0.553385  1.0
+  Ti  Ti4  1  0.491166  0.445455  0.390910  1.0
+  Ti  Ti5  1  0.920445  0.754092  0.008184  1.0
+  Ti  Ti6  1  0.100257  0.554545  0.609090  1.0
+  Si  Si7  1  0.538196  0.781141  0.062282  1.0
+  Si  Si8  1  0.162359  0.174493  0.335200  1.0
+  Si  Si9  1  0.162359  0.660707  0.335200  1.0
+  Si  Si10  1  0.827159  0.339293  0.664800  1.0
+  Si  Si11  1  0.475914  0.218859  0.937718  1.0
+  Si  Si12  1  0.827159  0.825507  0.664800  1.0
+  Ru  Ru13  1  0.245509  0.500000  0.000000  1.0
+  Ru  Ru14  1  0.245509  0.000000  0.000000  1.0
+  Ru  Ru15  1  0.497078  0.838427  0.747066  1.0
+  Ru  Ru16  1  0.750012  0.591360  0.252934  1.0
+  Ru  Ru17  1  0.497078  0.408640  0.747066  1.0
+  Ru  Ru18  1  0.750012  0.161573  0.252934  1.0

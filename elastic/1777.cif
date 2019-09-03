@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li(CoO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65150728
+_cell_length_b   4.84895486
+_cell_length_c   10.13498802
+_cell_angle_alpha   90.01161043
+_cell_angle_beta   89.91340618
+_cell_angle_gamma   90.05952978
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li(CoO2)2
+_chemical_formula_sum   'Li4 Co8 O16'
+_cell_volume   277.73776289
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.376803  0.893921  0.248587  1.0
+  Li  Li2  1  0.375316  0.607282  0.750368  1.0
+  Li  Li3  1  0.874457  0.393875  0.250411  1.0
+  Li  Li4  1  0.873322  0.106979  0.748677  1.0
+  Co  Co5  1  0.001295  0.996015  0.004092  1.0
+  Co  Co6  1  0.999245  0.503110  0.503739  1.0
+  Co  Co7  1  0.249485  0.497241  0.002858  1.0
+  Co  Co8  1  0.250840  0.003047  0.503660  1.0
+  Co  Co9  1  0.500480  0.002774  0.997056  1.0
+  Co  Co10  1  0.500110  0.496709  0.496833  1.0
+  Co  Co11  1  0.749858  0.996680  0.496773  1.0
+  Co  Co12  1  0.748759  0.503969  0.995847  1.0
+  O  O13  1  0.001954  0.175414  0.404401  1.0
+  O  O14  1  0.995556  0.660381  0.099230  1.0
+  O  O15  1  0.998334  0.324500  0.904256  1.0
+  O  O16  1  0.000666  0.838940  0.599427  1.0
+  O  O17  1  0.248479  0.154963  0.099233  1.0
+  O  O18  1  0.248446  0.675388  0.404326  1.0
+  O  O19  1  0.246836  0.830974  0.904229  1.0
+  O  O20  1  0.248813  0.338790  0.599566  1.0
+  O  O21  1  0.501480  0.345073  0.900677  1.0
+  O  O22  1  0.498040  0.830836  0.595997  1.0
+  O  O23  1  0.494296  0.154094  0.400775  1.0
+  O  O24  1  0.503196  0.668963  0.095766  1.0
+  O  O25  1  0.751597  0.331001  0.595939  1.0
+  O  O26  1  0.756300  0.654077  0.400887  1.0
+  O  O27  1  0.751637  0.175448  0.095797  1.0
+  O  O28  1  0.754399  0.839556  0.900592  1.0

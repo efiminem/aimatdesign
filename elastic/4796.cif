@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ScGa2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.12265520
+_cell_length_b   5.58155689
+_cell_length_c   5.58155689
+_cell_angle_alpha   72.82772796
+_cell_angle_beta   68.32689933
+_cell_angle_gamma   68.32689933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGa2
+_chemical_formula_sum   'Sc2 Ga4'
+_cell_volume   109.02619587
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc1  1  0.560702  0.689298  0.189298  1.0
+  Sc  Sc2  1  0.439298  0.310702  0.810702  1.0
+  Ga  Ga3  1  0.158041  0.295943  0.387974  1.0
+  Ga  Ga4  1  0.841959  0.704057  0.612026  1.0
+  Ga  Ga5  1  0.158041  0.887974  0.795943  1.0
+  Ga  Ga6  1  0.841959  0.112026  0.204057  1.0

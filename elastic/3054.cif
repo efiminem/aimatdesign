@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbZn2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74244937
+_cell_length_b   5.81095643
+_cell_length_c   5.44150178
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.39542900
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbZn2N3
+_chemical_formula_sum   'Nb2 Zn4 N6'
+_cell_volume   156.62096007
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb1  1  0.000000  0.669894  0.486880  1.0
+  Nb  Nb2  1  0.000000  0.330106  0.986880  1.0
+  Zn  Zn3  1  0.342513  0.333584  0.496992  1.0
+  Zn  Zn4  1  0.657487  0.991071  0.496992  1.0
+  Zn  Zn5  1  0.657487  0.666416  0.996992  1.0
+  Zn  Zn6  1  0.342513  0.008929  0.996992  1.0
+  N  N7  1  0.319683  0.329509  0.875091  1.0
+  N  N8  1  0.680317  0.009826  0.875091  1.0
+  N  N9  1  0.680317  0.670491  0.375091  1.0
+  N  N10  1  0.319683  0.990174  0.375091  1.0
+  N  N11  1  0.000000  0.656317  0.856956  1.0
+  N  N12  1  0.000000  0.343683  0.356956  1.0

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ho2Fe2Si2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.91886576
+_cell_length_b   5.61554156
+_cell_length_c   5.62608457
+_cell_angle_alpha   73.19171218
+_cell_angle_beta   69.61807287
+_cell_angle_gamma   69.57810096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2Fe2Si2C
+_chemical_formula_sum   'Ho2 Fe2 Si2 C1'
+_cell_volume   106.76578794
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho1  1  0.440922  0.825004  0.293154  1.0
+  Ho  Ho2  1  0.559078  0.174996  0.706846  1.0
+  Fe  Fe3  1  0.798205  0.306934  0.096655  1.0
+  Fe  Fe4  1  0.201795  0.693066  0.903345  1.0
+  Si  Si5  1  0.839141  0.606904  0.714814  1.0
+  Si  Si6  1  0.160859  0.393096  0.285186  1.0
+  C  C7  1  0.000000  0.000000  0.000000  1.0

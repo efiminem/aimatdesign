@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Mg3Pa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13724775
+_cell_length_b   5.13743046
+_cell_length_c   5.13730525
+_cell_angle_alpha   59.99678756
+_cell_angle_beta   59.99723370
+_cell_angle_gamma   59.99758982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3Pa
+_chemical_formula_sum   'Mg3 Pa1'
+_cell_volume   95.86703714
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.000002  0.999996  0.999997  1.0
+  Mg  Mg2  1  0.250000  0.249999  0.249997  1.0
+  Mg  Mg3  1  0.500001  0.500001  0.500004  1.0
+  Pa  Pa4  1  0.749998  0.750005  0.750003  1.0

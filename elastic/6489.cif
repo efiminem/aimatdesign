@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Bi2PdO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16996686
+_cell_length_b   8.61246564
+_cell_length_c   8.61246564
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2PdO4
+_chemical_formula_sum   'Bi8 Pd4 O16'
+_cell_volume   457.65460420
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi1  1  0.750000  0.423441  0.576559  1.0
+  Bi  Bi2  1  0.750000  0.923441  0.423441  1.0
+  Bi  Bi3  1  0.750000  0.576559  0.076559  1.0
+  Bi  Bi4  1  0.750000  0.076559  0.923441  1.0
+  Bi  Bi5  1  0.250000  0.576559  0.423441  1.0
+  Bi  Bi6  1  0.250000  0.076559  0.576559  1.0
+  Bi  Bi7  1  0.250000  0.423441  0.923441  1.0
+  Bi  Bi8  1  0.250000  0.923441  0.076559  1.0
+  Pd  Pd9  1  0.580038  0.250000  0.250000  1.0
+  Pd  Pd10  1  0.919962  0.750000  0.750000  1.0
+  Pd  Pd11  1  0.419962  0.750000  0.750000  1.0
+  Pd  Pd12  1  0.080038  0.250000  0.250000  1.0
+  O  O13  1  0.587489  0.148424  0.465458  1.0
+  O  O14  1  0.587489  0.351576  0.034542  1.0
+  O  O15  1  0.587489  0.465458  0.351576  1.0
+  O  O16  1  0.587489  0.034542  0.148424  1.0
+  O  O17  1  0.912511  0.965458  0.648424  1.0
+  O  O18  1  0.912511  0.851576  0.965458  1.0
+  O  O19  1  0.912511  0.648424  0.534542  1.0
+  O  O20  1  0.912511  0.534542  0.851576  1.0
+  O  O21  1  0.412511  0.851576  0.534542  1.0
+  O  O22  1  0.412511  0.648424  0.965458  1.0
+  O  O23  1  0.412511  0.534542  0.648424  1.0
+  O  O24  1  0.412511  0.965458  0.851576  1.0
+  O  O25  1  0.087489  0.465458  0.148424  1.0
+  O  O26  1  0.087489  0.351576  0.465458  1.0
+  O  O27  1  0.087489  0.148424  0.034542  1.0
+  O  O28  1  0.087489  0.034542  0.351576  1.0

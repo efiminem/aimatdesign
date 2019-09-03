@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Si3N4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57578808
+_cell_length_b   5.57778507
+_cell_length_c   9.52379424
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si3N4
+_chemical_formula_sum   'Si12 N16'
+_cell_volume   243.07353788
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si1  1  0.560179  0.750000  0.907720  1.0
+  Si  Si2  1  0.060179  0.250000  0.592280  1.0
+  Si  Si3  1  0.491157  0.750000  0.225897  1.0
+  Si  Si4  1  0.439821  0.250000  0.092280  1.0
+  Si  Si5  1  0.008843  0.750000  0.725897  1.0
+  Si  Si6  1  0.939821  0.750000  0.407720  1.0
+  Si  Si7  1  0.991157  0.250000  0.274103  1.0
+  Si  Si8  1  0.500000  0.000000  0.500000  1.0
+  Si  Si9  1  0.000000  0.000000  0.000000  1.0
+  Si  Si10  1  0.508843  0.250000  0.774103  1.0
+  Si  Si11  1  0.000000  0.500000  0.000000  1.0
+  Si  Si12  1  0.500000  0.500000  0.500000  1.0
+  N  N13  1  0.312485  0.750000  0.408285  1.0
+  N  N14  1  0.187515  0.750000  0.908285  1.0
+  N  N15  1  0.242108  0.004750  0.662553  1.0
+  N  N16  1  0.243493  0.250000  0.428611  1.0
+  N  N17  1  0.757892  0.504750  0.337447  1.0
+  N  N18  1  0.757892  0.995250  0.337447  1.0
+  N  N19  1  0.742108  0.504750  0.837447  1.0
+  N  N20  1  0.756507  0.750000  0.571389  1.0
+  N  N21  1  0.257892  0.495250  0.162553  1.0
+  N  N22  1  0.742108  0.995250  0.837447  1.0
+  N  N23  1  0.256507  0.250000  0.928611  1.0
+  N  N24  1  0.257892  0.004750  0.162553  1.0
+  N  N25  1  0.687515  0.250000  0.591715  1.0
+  N  N26  1  0.743493  0.750000  0.071389  1.0
+  N  N27  1  0.242108  0.495250  0.662553  1.0
+  N  N28  1  0.812485  0.250000  0.091715  1.0

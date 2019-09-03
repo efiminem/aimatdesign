@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_KHfMg6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65551484
+_cell_length_b   9.41630686
+_cell_length_c   4.67310463
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.02428161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KHfMg6
+_chemical_formula_sum   'K1 Hf1 Mg6'
+_cell_volume   206.99918555
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K1  1  0.236541  0.368270  0.250000  1.0
+  Hf  Hf2  1  0.255088  0.877543  0.250000  1.0
+  Mg  Mg3  1  0.749292  0.380848  0.250000  1.0
+  Mg  Mg4  1  0.749292  0.868443  0.250000  1.0
+  Mg  Mg5  1  0.254816  0.103205  0.750000  1.0
+  Mg  Mg6  1  0.254816  0.651612  0.750000  1.0
+  Mg  Mg7  1  0.698672  0.099337  0.750000  1.0
+  Mg  Mg8  1  0.801482  0.650742  0.750000  1.0

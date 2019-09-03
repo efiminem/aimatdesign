@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2TeCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.31654930
+_cell_length_b   7.31655000
+_cell_length_c   7.32205302
+_cell_angle_alpha   119.97513349
+_cell_angle_beta   119.97513670
+_cell_angle_gamma   90.00000512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2TeCl6
+_chemical_formula_sum   'K2 Te1 Cl6'
+_cell_volume   277.36816782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K1  1  0.750000  0.250000  0.500000  1.0
+  K  K2  1  0.250000  0.750000  0.500000  1.0
+  Te  Te3  1  0.000000  0.000000  0.000000  1.0
+  Cl  Cl4  1  0.752478  0.752478  0.000000  1.0
+  Cl  Cl5  1  0.752958  0.752958  0.505916  1.0
+  Cl  Cl6  1  0.752478  0.247522  0.000000  1.0
+  Cl  Cl7  1  0.247522  0.247522  0.000000  1.0
+  Cl  Cl8  1  0.247042  0.247042  0.494084  1.0
+  Cl  Cl9  1  0.247522  0.752478  0.000000  1.0

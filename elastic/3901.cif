@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiSi2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.81172791
+_cell_length_b   5.32682349
+_cell_length_c   5.34706896
+_cell_angle_alpha   119.87483319
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSi2N3
+_chemical_formula_sum   'Li2 Si4 N6'
+_cell_volume   118.83986877
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li1  1  0.000774  0.659467  0.000000  1.0
+  Li  Li2  1  0.500774  0.340533  0.000000  1.0
+  Si  Si3  1  0.013057  0.997479  0.668537  1.0
+  Si  Si4  1  0.513057  0.002521  0.331463  1.0
+  Si  Si5  1  0.513057  0.671056  0.668537  1.0
+  Si  Si6  1  0.013057  0.328944  0.331463  1.0
+  N  N7  1  0.374574  0.940949  0.603219  1.0
+  N  N8  1  0.874574  0.059051  0.396781  1.0
+  N  N9  1  0.934242  0.274321  0.000000  1.0
+  N  N10  1  0.434242  0.725679  0.000000  1.0
+  N  N11  1  0.374574  0.337730  0.396781  1.0
+  N  N12  1  0.874574  0.662270  0.603219  1.0

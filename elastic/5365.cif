@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrAl2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21388642
+_cell_length_b   8.54738167
+_cell_length_c   8.91760562
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   93.51529815
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrAl2O4
+_chemical_formula_sum   'Sr4 Al8 O16'
+_cell_volume   396.66603418
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.798533  0.972778  0.490579  1.0
+  Sr  Sr2  1  0.201467  0.027222  0.990579  1.0
+  Sr  Sr3  1  0.746199  0.514383  0.497280  1.0
+  Sr  Sr4  1  0.253801  0.485617  0.997280  1.0
+  Al  Al5  1  0.204283  0.318779  0.668320  1.0
+  Al  Al6  1  0.795717  0.681221  0.168320  1.0
+  Al  Al7  1  0.779774  0.292669  0.168259  1.0
+  Al  Al8  1  0.220226  0.707331  0.668259  1.0
+  Al  Al9  1  0.274238  0.200450  0.337574  1.0
+  Al  Al10  1  0.725762  0.799550  0.837574  1.0
+  Al  Al11  1  0.284797  0.810876  0.330705  1.0
+  Al  Al12  1  0.715203  0.189124  0.830705  1.0
+  O  O13  1  0.356343  0.008625  0.384109  1.0
+  O  O14  1  0.643657  0.991375  0.884109  1.0
+  O  O15  1  0.118614  0.511211  0.714354  1.0
+  O  O16  1  0.881386  0.488789  0.214354  1.0
+  O  O17  1  0.090115  0.798288  0.167245  1.0
+  O  O18  1  0.909885  0.201712  0.667245  1.0
+  O  O19  1  0.060616  0.824245  0.797076  1.0
+  O  O20  1  0.939384  0.175755  0.297076  1.0
+  O  O21  1  0.099385  0.735586  0.484662  1.0
+  O  O22  1  0.900615  0.264414  0.984662  1.0
+  O  O23  1  0.648396  0.673815  0.990121  1.0
+  O  O24  1  0.351604  0.326185  0.490121  1.0
+  O  O25  1  0.439063  0.264252  0.170823  1.0
+  O  O26  1  0.560937  0.735748  0.670823  1.0
+  O  O27  1  0.585816  0.729600  0.314694  1.0
+  O  O28  1  0.414184  0.270400  0.814694  1.0

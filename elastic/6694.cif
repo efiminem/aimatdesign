@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Zr2Al4C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.35838492
+_cell_length_b   3.35838492
+_cell_length_c   13.87383812
+_cell_angle_alpha   83.04827551
+_cell_angle_beta   83.04827551
+_cell_angle_gamma   60.00000117
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2Al4C5
+_chemical_formula_sum   'Zr2 Al4 C5'
+_cell_volume   134.18529234
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  0.370040  0.370040  0.889879  1.0
+  Zr  Zr2  1  0.102702  0.102702  0.691894  1.0
+  Al  Al3  1  0.925898  0.925898  0.222305  1.0
+  Al  Al4  1  0.825317  0.825317  0.524048  1.0
+  Al  Al5  1  0.647565  0.647565  0.057304  1.0
+  Al  Al6  1  0.547282  0.547282  0.358155  1.0
+  C  C7  1  0.002531  0.002531  0.992408  1.0
+  C  C8  1  0.872680  0.872680  0.381960  1.0
+  C  C9  1  0.736340  0.736340  0.790980  1.0
+  C  C10  1  0.600279  0.600279  0.199164  1.0
+  C  C11  1  0.470266  0.470266  0.589203  1.0

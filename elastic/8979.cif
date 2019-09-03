@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NbInS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.33601639
+_cell_length_b   3.33598588
+_cell_length_c   8.83652791
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00030247
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbInS2
+_chemical_formula_sum   'Nb1 In1 S2'
+_cell_volume   85.16542950
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb1  1  0.333322  0.666645  0.500000  1.0
+  In  In2  1  0.999999  0.999999  0.000000  1.0
+  S  S3  1  0.999989  0.999978  0.678497  1.0
+  S  S4  1  0.999989  0.999978  0.321503  1.0

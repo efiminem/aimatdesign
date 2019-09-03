@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Na2MgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.08261390
+_cell_length_b   5.08262635
+_cell_length_c   10.07058511
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99991225
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MgSn
+_chemical_formula_sum   'Na4 Mg2 Sn2'
+_cell_volume   225.29991267
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.666682  0.333364  0.079652  1.0
+  Na  Na2  1  0.666682  0.333364  0.420348  1.0
+  Na  Na3  1  0.333318  0.666636  0.579652  1.0
+  Na  Na4  1  0.333318  0.666636  0.920348  1.0
+  Mg  Mg5  1  0.999995  0.999990  0.250000  1.0
+  Mg  Mg6  1  0.000005  0.000010  0.750000  1.0
+  Sn  Sn7  1  0.333328  0.666656  0.250000  1.0
+  Sn  Sn8  1  0.666672  0.333344  0.750000  1.0

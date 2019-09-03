@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TlCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22905150
+_cell_length_b   5.78674810
+_cell_length_c   5.22905104
+_cell_angle_alpha   116.86003453
+_cell_angle_beta   60.00000896
+_cell_angle_gamma   116.86003205
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCoO3
+_chemical_formula_sum   'Tl2 Co2 O6'
+_cell_volume   116.90234150
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl1  1  0.126650  0.379949  0.126650  1.0
+  Tl  Tl2  1  0.873350  0.620051  0.873350  1.0
+  Co  Co3  1  0.339198  0.017596  0.339198  1.0
+  Co  Co4  1  0.660802  0.982404  0.660802  1.0
+  O  O5  1  0.055711  0.216187  0.470294  1.0
+  O  O6  1  0.470294  0.216187  0.690183  1.0
+  O  O7  1  0.690183  0.216187  0.055711  1.0
+  O  O8  1  0.309817  0.783813  0.944289  1.0
+  O  O9  1  0.529706  0.783813  0.309817  1.0
+  O  O10  1  0.944289  0.783813  0.529706  1.0

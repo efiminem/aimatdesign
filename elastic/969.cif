@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ni3Se4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.67400579
+_cell_length_b   6.19680142
+_cell_length_c   6.31849653
+_cell_angle_alpha   120.12290346
+_cell_angle_beta   106.90191523
+_cell_angle_gamma   90.00000007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni3Se4
+_chemical_formula_sum   'Ni3 Se4'
+_cell_volume   117.18683495
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni1  1  0.000000  0.000000  0.000000  1.0
+  Ni  Ni2  1  0.259865  0.240554  0.519730  1.0
+  Ni  Ni3  1  0.740135  0.759446  0.480270  1.0
+  Se  Se4  1  0.118369  0.778876  0.236737  1.0
+  Se  Se5  1  0.881631  0.221124  0.763263  1.0
+  Se  Se6  1  0.635512  0.293814  0.271024  1.0
+  Se  Se7  1  0.364488  0.706186  0.728976  1.0

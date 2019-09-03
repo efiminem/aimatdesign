@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   20.28236361
+_cell_length_b   20.28236363
+_cell_length_c   20.28236395
+_cell_angle_alpha   8.76380700
+_cell_angle_beta   8.76380658
+_cell_angle_gamma   8.76380617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiC
+_chemical_formula_sum   'Si8 C8'
+_cell_volume   168.06720463
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si1  1  0.124968  0.124968  0.124968  1.0
+  Si  Si2  1  0.624809  0.624809  0.624809  1.0
+  Si  Si3  1  0.416626  0.416626  0.416626  1.0
+  Si  Si4  1  0.999887  0.999887  0.999887  1.0
+  Si  Si5  1  0.499928  0.499928  0.499928  1.0
+  Si  Si6  1  0.708301  0.708301  0.708301  1.0
+  Si  Si7  1  0.249823  0.249823  0.249823  1.0
+  Si  Si8  1  0.874860  0.874860  0.874860  1.0
+  C  C9  1  0.031304  0.031304  0.031304  1.0
+  C  C10  1  0.531211  0.531211  0.531211  1.0
+  C  C11  1  0.906174  0.906174  0.906174  1.0
+  C  C12  1  0.281151  0.281151  0.281151  1.0
+  C  C13  1  0.156326  0.156326  0.156326  1.0
+  C  C14  1  0.656127  0.656127  0.656127  1.0
+  C  C15  1  0.739606  0.739606  0.739606  1.0
+  C  C16  1  0.447900  0.447900  0.447900  1.0

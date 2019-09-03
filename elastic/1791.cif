@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TiOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03532328
+_cell_length_b   6.50602354
+_cell_length_c   3.05483188
+_cell_angle_alpha   90.00001596
+_cell_angle_beta   89.99993659
+_cell_angle_gamma   90.00004173
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiOF
+_chemical_formula_sum   'Ti2 O2 F2'
+_cell_volume   80.20127590
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.249994  0.112016  0.750001  1.0
+  Ti  Ti2  1  0.750004  0.887980  0.249997  1.0
+  O  O3  1  0.250002  0.898104  0.250002  1.0
+  O  O4  1  0.750000  0.101908  0.750001  1.0
+  F  F5  1  0.250001  0.313310  0.249999  1.0
+  F  F6  1  0.749998  0.686682  0.750000  1.0

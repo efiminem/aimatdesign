@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrBiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32620843
+_cell_length_b   6.59814543
+_cell_length_c   5.32620941
+_cell_angle_alpha   66.19569313
+_cell_angle_beta   90.00000081
+_cell_angle_gamma   66.19569471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrBiO4
+_chemical_formula_sum   'Zr2 Bi2 O8'
+_cell_volume   153.69150940
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  0.125000  0.250000  0.875000  1.0
+  Zr  Zr2  1  0.875000  0.750000  0.125000  1.0
+  Bi  Bi3  1  0.625000  0.250000  0.375000  1.0
+  Bi  Bi4  1  0.375000  0.750000  0.625000  1.0
+  O  O5  1  0.461822  0.041473  0.740903  1.0
+  O  O6  1  0.996706  0.041473  0.217625  1.0
+  O  O7  1  0.259097  0.458527  0.003294  1.0
+  O  O8  1  0.782375  0.458527  0.538178  1.0
+  O  O9  1  0.217625  0.541473  0.461822  1.0
+  O  O10  1  0.740903  0.541473  0.996706  1.0
+  O  O11  1  0.003294  0.958527  0.782375  1.0
+  O  O12  1  0.538178  0.958527  0.259097  1.0

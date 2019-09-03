@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YAl4Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05987622
+_cell_length_b   6.62757740
+_cell_length_c   7.98330546
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.73050439
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YAl4Ni
+_chemical_formula_sum   'Y2 Al8 Ni2'
+_cell_volume   207.74775152
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y1  1  0.382899  0.750000  0.765798  1.0
+  Y  Y2  1  0.617101  0.250000  0.234202  1.0
+  Al  Al3  1  0.811211  0.052941  0.622422  1.0
+  Al  Al4  1  0.188789  0.947059  0.377578  1.0
+  Al  Al5  1  0.188789  0.552941  0.377578  1.0
+  Al  Al6  1  0.811211  0.447059  0.622422  1.0
+  Al  Al7  1  0.000000  0.500000  0.000000  1.0
+  Al  Al8  1  0.000000  0.000000  0.000000  1.0
+  Al  Al9  1  0.423559  0.250000  0.847118  1.0
+  Al  Al10  1  0.576441  0.750000  0.152882  1.0
+  Ni  Ni11  1  0.273570  0.250000  0.547140  1.0
+  Ni  Ni12  1  0.726430  0.750000  0.452860  1.0

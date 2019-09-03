@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2CoReO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80077407
+_cell_length_b   5.80097077
+_cell_length_c   5.80462418
+_cell_angle_alpha   59.99253085
+_cell_angle_beta   59.98587197
+_cell_angle_gamma   59.98236788
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CoReO6
+_chemical_formula_sum   'Ba2 Co1 Re1 O6'
+_cell_volume   138.07560104
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.749913  0.750031  0.749994  1.0
+  Ba  Ba2  1  0.250162  0.249938  0.249950  1.0
+  Co  Co3  1  0.000159  0.999941  0.999896  1.0
+  Re  Re4  1  0.499594  0.500151  0.500267  1.0
+  O  O5  1  0.264615  0.735194  0.265233  1.0
+  O  O6  1  0.264680  0.264985  0.735131  1.0
+  O  O7  1  0.735394  0.264757  0.265041  1.0
+  O  O8  1  0.735375  0.735040  0.264821  1.0
+  O  O9  1  0.264686  0.735187  0.734882  1.0
+  O  O10  1  0.735423  0.264775  0.734785  1.0

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.78035417
+_cell_length_b   6.02489778
+_cell_length_c   6.02489829
+_cell_angle_alpha   80.68889526
+_cell_angle_beta   66.62692580
+_cell_angle_gamma   66.62692478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrZn2
+_chemical_formula_sum   'Sr2 Zn4'
+_cell_volume   146.21206526
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.951100  0.798900  0.298900  1.0
+  Sr  Sr2  1  0.048900  0.201100  0.701100  1.0
+  Zn  Zn3  1  0.335020  0.228144  0.101816  1.0
+  Zn  Zn4  1  0.664980  0.771856  0.898184  1.0
+  Zn  Zn5  1  0.335020  0.601816  0.728144  1.0
+  Zn  Zn6  1  0.664980  0.398184  0.271856  1.0

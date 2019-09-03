@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_LaInHg2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33157462
+_cell_length_b   5.33160453
+_cell_length_c   5.33155621
+_cell_angle_alpha   59.89026258
+_cell_angle_beta   59.89009362
+_cell_angle_gamma   59.88948749
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaInHg2
+_chemical_formula_sum   'La1 In1 Hg2'
+_cell_volume   106.89728574
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La1  1  0.749996  0.749995  0.750001  1.0
+  In  In2  1  0.250000  0.250001  0.249998  1.0
+  Hg  Hg3  1  0.999928  0.999927  0.999925  1.0
+  Hg  Hg4  1  0.500074  0.500075  0.500073  1.0

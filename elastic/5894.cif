@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr2IrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52416800
+_cell_length_b   5.52416801
+_cell_length_c   13.68865317
+_cell_angle_alpha   101.64101478
+_cell_angle_beta   101.64101478
+_cell_angle_gamma   90.00000005
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2IrO4
+_chemical_formula_sum   'Sr8 Ir4 O16'
+_cell_volume   400.36001670
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.800191  0.050191  0.100382  1.0
+  Sr  Sr2  1  0.550191  0.300191  0.600382  1.0
+  Sr  Sr3  1  0.699809  0.449809  0.899618  1.0
+  Sr  Sr4  1  0.949809  0.199809  0.399618  1.0
+  Sr  Sr5  1  0.050191  0.800191  0.600382  1.0
+  Sr  Sr6  1  0.300191  0.550191  0.100382  1.0
+  Sr  Sr7  1  0.449809  0.699809  0.399618  1.0
+  Sr  Sr8  1  0.199809  0.949809  0.899618  1.0
+  Ir  Ir9  1  0.125000  0.375000  0.750000  1.0
+  Ir  Ir10  1  0.875000  0.625000  0.250000  1.0
+  Ir  Ir11  1  0.375000  0.125000  0.250000  1.0
+  Ir  Ir12  1  0.625000  0.875000  0.750000  1.0
+  O  O13  1  0.954709  0.704709  0.409417  1.0
+  O  O14  1  0.204709  0.454709  0.909417  1.0
+  O  O15  1  0.545291  0.795291  0.590583  1.0
+  O  O16  1  0.295291  0.045291  0.090583  1.0
+  O  O17  1  0.045291  0.295291  0.590583  1.0
+  O  O18  1  0.795291  0.545291  0.090583  1.0
+  O  O19  1  0.454709  0.204709  0.409417  1.0
+  O  O20  1  0.704709  0.954709  0.909417  1.0
+  O  O21  1  0.935543  0.064457  0.750000  1.0
+  O  O22  1  0.185543  0.435543  0.250000  1.0
+  O  O23  1  0.564457  0.814457  0.250000  1.0
+  O  O24  1  0.314457  0.685543  0.750000  1.0
+  O  O25  1  0.685543  0.314457  0.250000  1.0
+  O  O26  1  0.435543  0.185543  0.750000  1.0
+  O  O27  1  0.814457  0.564457  0.750000  1.0
+  O  O28  1  0.064457  0.935543  0.250000  1.0

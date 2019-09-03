@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_NaTa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73943345
+_cell_length_b   4.73943345
+_cell_length_c   4.73943345
+_cell_angle_alpha   120.43522133
+_cell_angle_beta   120.43522133
+_cell_angle_gamma   89.24781316
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTa3
+_chemical_formula_sum   'Na1 Ta3'
+_cell_volume   74.77515652
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.000000  0.000000  0.000000  1.0
+  Ta  Ta2  1  0.750000  0.250001  0.499999  1.0
+  Ta  Ta3  1  0.250001  0.750000  0.499999  1.0
+  Ta  Ta4  1  0.499999  0.499999  0.000000  1.0

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(InSb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.61932431
+_cell_length_b   12.24267427
+_cell_length_c   14.43364288
+_cell_angle_alpha   89.98853198
+_cell_angle_beta   90.00694354
+_cell_angle_gamma   89.99646244
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(InSb3)2
+_chemical_formula_sum   'Ca10 In4 Sb12'
+_cell_volume   816.26409135
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.500024  0.677529  0.485291  1.0
+  Ca  Ca2  1  0.499762  0.822334  0.985328  1.0
+  Ca  Ca3  1  0.500036  0.408706  0.247926  1.0
+  Ca  Ca4  1  0.500427  0.908456  0.252198  1.0
+  Ca  Ca5  1  0.499473  0.591557  0.752272  1.0
+  Ca  Ca6  1  0.499555  0.177682  0.014704  1.0
+  Ca  Ca7  1  0.499798  0.091618  0.747700  1.0
+  Ca  Ca8  1  0.500265  0.999938  0.500095  1.0
+  Ca  Ca9  1  0.500634  0.322271  0.514465  1.0
+  Ca  Ca10  1  0.500120  0.499921  0.000031  1.0
+  In  In11  1  0.999551  0.663280  0.286807  1.0
+  In  In12  1  0.000025  0.163419  0.213159  1.0
+  In  In13  1  0.000123  0.836668  0.786873  1.0
+  In  In14  1  0.000383  0.336769  0.713038  1.0
+  Sb  Sb15  1  0.999784  0.962923  0.095793  1.0
+  Sb  Sb16  1  0.000286  0.850187  0.407274  1.0
+  Sb  Sb17  1  0.499306  0.661677  0.170010  1.0
+  Sb  Sb18  1  0.999921  0.462781  0.404295  1.0
+  Sb  Sb19  1  0.999881  0.649466  0.907308  1.0
+  Sb  Sb20  1  0.999798  0.149820  0.592637  1.0
+  Sb  Sb21  1  0.000078  0.037085  0.904178  1.0
+  Sb  Sb22  1  0.500149  0.161729  0.330040  1.0
+  Sb  Sb23  1  0.500129  0.838105  0.670084  1.0
+  Sb  Sb24  1  0.999787  0.537270  0.595763  1.0
+  Sb  Sb25  1  0.000178  0.350459  0.092851  1.0
+  Sb  Sb26  1  0.500527  0.338352  0.829881  1.0

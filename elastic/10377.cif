@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ti8C5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.09880892
+_cell_length_b   6.09880847
+_cell_length_c   6.09880850
+_cell_angle_alpha   60.43280111
+_cell_angle_beta   60.43280351
+_cell_angle_gamma   60.43279971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti8C5
+_chemical_formula_sum   'Ti8 C5'
+_cell_volume   161.97544137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.757805  0.757805  0.757805  1.0
+  Ti  Ti2  1  0.238560  0.752440  0.752440  1.0
+  Ti  Ti3  1  0.765910  0.251738  0.251738  1.0
+  Ti  Ti4  1  0.752440  0.238560  0.752440  1.0
+  Ti  Ti5  1  0.251738  0.765910  0.251738  1.0
+  Ti  Ti6  1  0.246549  0.246549  0.246549  1.0
+  Ti  Ti7  1  0.251738  0.251738  0.765910  1.0
+  Ti  Ti8  1  0.752440  0.752440  0.238560  1.0
+  C  C9  1  0.002243  0.002243  0.502121  1.0
+  C  C10  1  0.502121  0.002243  0.002243  1.0
+  C  C11  1  0.002243  0.502121  0.002243  1.0
+  C  C12  1  0.501986  0.501986  0.501986  1.0
+  C  C13  1  0.002127  0.002127  0.002127  1.0

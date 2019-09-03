@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ba2TiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23985800
+_cell_length_b   7.77455304
+_cell_length_c   10.68334693
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   93.85795267
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2TiO4
+_chemical_formula_sum   'Ba8 Ti4 O16'
+_cell_volume   517.09722630
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.723454  0.996951  0.699023  1.0
+  Ba  Ba2  1  0.776546  0.496951  0.800977  1.0
+  Ba  Ba3  1  0.276546  0.003049  0.300977  1.0
+  Ba  Ba4  1  0.223454  0.503049  0.199023  1.0
+  Ba  Ba5  1  0.268035  0.660383  0.573208  1.0
+  Ba  Ba6  1  0.231965  0.160383  0.926792  1.0
+  Ba  Ba7  1  0.731965  0.339617  0.426792  1.0
+  Ba  Ba8  1  0.768035  0.839617  0.073208  1.0
+  Ti  Ti9  1  0.239063  0.220133  0.583418  1.0
+  Ti  Ti10  1  0.260937  0.720133  0.916582  1.0
+  Ti  Ti11  1  0.760937  0.779867  0.416582  1.0
+  Ti  Ti12  1  0.739063  0.279867  0.083418  1.0
+  O  O13  1  0.164226  0.319404  0.429572  1.0
+  O  O14  1  0.335774  0.819404  0.070428  1.0
+  O  O15  1  0.835774  0.680596  0.570428  1.0
+  O  O16  1  0.664226  0.180596  0.929572  1.0
+  O  O17  1  0.493957  0.325169  0.636998  1.0
+  O  O18  1  0.006043  0.825169  0.863002  1.0
+  O  O19  1  0.506043  0.674831  0.363002  1.0
+  O  O20  1  0.993957  0.174831  0.136998  1.0
+  O  O21  1  0.024905  0.255591  0.691166  1.0
+  O  O22  1  0.475095  0.755591  0.808834  1.0
+  O  O23  1  0.975095  0.744409  0.308834  1.0
+  O  O24  1  0.524905  0.244409  0.191166  1.0
+  O  O25  1  0.711880  0.007206  0.436488  1.0
+  O  O26  1  0.788120  0.507206  0.063512  1.0
+  O  O27  1  0.288120  0.992794  0.563512  1.0
+  O  O28  1  0.211880  0.492794  0.936488  1.0

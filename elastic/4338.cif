@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TbZn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49230257
+_cell_length_b   5.68209777
+_cell_length_c   5.68209777
+_cell_angle_alpha   78.29829492
+_cell_angle_beta   66.71511639
+_cell_angle_gamma   66.71511641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbZn2
+_chemical_formula_sum   'Tb2 Zn4'
+_cell_volume   122.18858788
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb1  1  0.529885  0.720115  0.220115  1.0
+  Tb  Tb2  1  0.470115  0.279885  0.779885  1.0
+  Zn  Zn3  1  0.834137  0.709619  0.622107  1.0
+  Zn  Zn4  1  0.165863  0.290381  0.377893  1.0
+  Zn  Zn5  1  0.834137  0.122107  0.209619  1.0
+  Zn  Zn6  1  0.165863  0.877893  0.790381  1.0

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdCoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07003533
+_cell_length_b   4.16454245
+_cell_length_c   8.42938137
+_cell_angle_alpha   104.30156470
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdCoSi2
+_chemical_formula_sum   'Nd2 Co2 Si4'
+_cell_volume   138.44873112
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd1  1  0.250000  0.893168  0.786336  1.0
+  Nd  Nd2  1  0.750000  0.106832  0.213664  1.0
+  Co  Co3  1  0.750000  0.318040  0.636078  1.0
+  Co  Co4  1  0.250000  0.681960  0.363922  1.0
+  Si  Si5  1  0.250000  0.249702  0.499404  1.0
+  Si  Si6  1  0.750000  0.750298  0.500596  1.0
+  Si  Si7  1  0.750000  0.456409  0.912817  1.0
+  Si  Si8  1  0.250000  0.543591  0.087183  1.0

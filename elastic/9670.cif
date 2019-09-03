@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Dy2Cr2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.36778806
+_cell_length_b   5.48455114
+_cell_length_c   5.58276333
+_cell_angle_alpha   105.05757366
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   107.88003122
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2Cr2C3
+_chemical_formula_sum   'Dy2 Cr2 C3'
+_cell_volume   94.41055876
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy1  1  0.394073  0.788145  0.683187  1.0
+  Dy  Dy2  1  0.605927  0.211855  0.316813  1.0
+  Cr  Cr3  1  0.156875  0.313750  0.890986  1.0
+  Cr  Cr4  1  0.843125  0.686250  0.109014  1.0
+  C  C5  1  0.715079  0.430159  0.769760  1.0
+  C  C6  1  0.284921  0.569841  0.230240  1.0
+  C  C7  1  0.000000  0.000000  0.000000  1.0

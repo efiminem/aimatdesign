@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sr2SnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87343495
+_cell_length_b   5.88105044
+_cell_length_c   12.52429623
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2SnO4
+_chemical_formula_sum   'Sr8 Sn4 O16'
+_cell_volume   432.61382954
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.514651  0.514823  0.646879  1.0
+  Sr  Sr2  1  0.014651  0.485177  0.853121  1.0
+  Sr  Sr3  1  0.485349  0.014823  0.853121  1.0
+  Sr  Sr4  1  0.985349  0.985177  0.646879  1.0
+  Sr  Sr5  1  0.485349  0.485177  0.353121  1.0
+  Sr  Sr6  1  0.985349  0.514823  0.146879  1.0
+  Sr  Sr7  1  0.514651  0.985177  0.146879  1.0
+  Sr  Sr8  1  0.014651  0.014823  0.353121  1.0
+  Sn  Sn9  1  0.500000  0.500000  0.000000  1.0
+  Sn  Sn10  1  0.000000  0.500000  0.500000  1.0
+  Sn  Sn11  1  0.500000  0.000000  0.500000  1.0
+  Sn  Sn12  1  0.000000  0.000000  0.000000  1.0
+  O  O13  1  0.457442  0.454713  0.836656  1.0
+  O  O14  1  0.957442  0.545287  0.663344  1.0
+  O  O15  1  0.542558  0.954713  0.663344  1.0
+  O  O16  1  0.042558  0.045287  0.836656  1.0
+  O  O17  1  0.542558  0.545287  0.163344  1.0
+  O  O18  1  0.042558  0.454713  0.336656  1.0
+  O  O19  1  0.457442  0.045287  0.336656  1.0
+  O  O20  1  0.957442  0.954713  0.163344  1.0
+  O  O21  1  0.750000  0.250000  0.501191  1.0
+  O  O22  1  0.250000  0.750000  0.998809  1.0
+  O  O23  1  0.250000  0.750000  0.498809  1.0
+  O  O24  1  0.750000  0.250000  0.001191  1.0
+  O  O25  1  0.250000  0.250000  0.030830  1.0
+  O  O26  1  0.750000  0.750000  0.469170  1.0
+  O  O27  1  0.750000  0.750000  0.969170  1.0
+  O  O28  1  0.250000  0.250000  0.530830  1.0

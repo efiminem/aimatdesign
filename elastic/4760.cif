@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TmGa2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24679792
+_cell_length_b   5.73869287
+_cell_length_c   5.73869287
+_cell_angle_alpha   73.54902787
+_cell_angle_beta   68.28349506
+_cell_angle_gamma   68.28349506
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmGa2
+_chemical_formula_sum   'Tm2 Ga4'
+_cell_volume   118.96359635
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm1  1  0.556302  0.693698  0.193698  1.0
+  Tm  Tm2  1  0.443698  0.306302  0.806302  1.0
+  Ga  Ga3  1  0.161092  0.288762  0.389054  1.0
+  Ga  Ga4  1  0.838908  0.711238  0.610946  1.0
+  Ga  Ga5  1  0.838908  0.110946  0.211238  1.0
+  Ga  Ga6  1  0.161092  0.889054  0.788762  1.0

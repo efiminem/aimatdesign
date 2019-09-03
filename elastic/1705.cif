@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrIn4Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.55934164
+_cell_length_b   7.43161745
+_cell_length_c   8.90241663
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.83718609
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrIn4Ni
+_chemical_formula_sum   'Sr2 In8 Ni2'
+_cell_volume   291.58553453
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.878617  0.250000  0.757234  1.0
+  Sr  Sr2  1  0.121383  0.750000  0.242766  1.0
+  In  In3  1  0.310305  0.949763  0.620610  1.0
+  In  In4  1  0.689695  0.050237  0.379390  1.0
+  In  In5  1  0.310305  0.550237  0.620610  1.0
+  In  In6  1  0.924512  0.750000  0.849025  1.0
+  In  In7  1  0.500000  0.000000  0.000000  1.0
+  In  In8  1  0.689695  0.449763  0.379390  1.0
+  In  In9  1  0.500000  0.500000  0.000000  1.0
+  In  In10  1  0.075488  0.250000  0.150975  1.0
+  Ni  Ni11  1  0.774099  0.750000  0.548198  1.0
+  Ni  Ni12  1  0.225901  0.250000  0.451802  1.0

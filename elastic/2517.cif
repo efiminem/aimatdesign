@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ga2CoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97756450
+_cell_length_b   5.97756450
+_cell_length_c   5.97756460
+_cell_angle_alpha   60.00000422
+_cell_angle_beta   89.99999795
+_cell_angle_gamma   120.00000129
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ga2CoO4
+_chemical_formula_sum   'Ga4 Co2 O8'
+_cell_volume   151.02812611
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga1  1  0.500000  0.000000  0.000000  1.0
+  Ga  Ga2  1  0.500000  0.000000  0.500000  1.0
+  Ga  Ga3  1  0.000000  0.500000  0.500000  1.0
+  Ga  Ga4  1  0.500000  0.500000  0.500000  1.0
+  Co  Co5  1  0.125000  0.250000  0.125000  1.0
+  Co  Co6  1  0.875000  0.750000  0.875000  1.0
+  O  O7  1  0.284888  0.023259  0.738371  1.0
+  O  O8  1  0.261629  0.523259  0.261629  1.0
+  O  O9  1  0.261629  0.523259  0.715112  1.0
+  O  O10  1  0.261629  0.976741  0.261629  1.0
+  O  O11  1  0.738371  0.023259  0.738371  1.0
+  O  O12  1  0.738371  0.476741  0.284888  1.0
+  O  O13  1  0.715112  0.976741  0.261629  1.0
+  O  O14  1  0.738371  0.476741  0.738371  1.0

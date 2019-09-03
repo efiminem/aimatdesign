@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_VSnO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.15105953
+_cell_length_b   5.62870819
+_cell_length_c   5.62849092
+_cell_angle_alpha   108.45270781
+_cell_angle_beta   55.95466061
+_cell_angle_gamma   124.04312305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VSnO4
+_chemical_formula_sum   'V1 Sn1 O4'
+_cell_volume   68.54071466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V1  1  0.500816  0.500837  0.499161  1.0
+  Sn  Sn2  1  0.000998  0.000860  0.999147  1.0
+  O  O3  1  0.503630  0.209157  0.204697  1.0
+  O  O4  1  0.372527  0.686883  0.313107  1.0
+  O  O5  1  0.503617  0.795295  0.790849  1.0
+  O  O6  1  0.628959  0.315114  0.684893  1.0

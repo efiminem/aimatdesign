@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgTiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12445282
+_cell_length_b   7.12061694
+_cell_length_c   4.28325243
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTiN2
+_chemical_formula_sum   'Mg4 Ti4 N8'
+_cell_volume   186.79213518
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.583952  0.880101  0.942499  1.0
+  Mg  Mg2  1  0.416048  0.119899  0.442499  1.0
+  Mg  Mg3  1  0.916048  0.380101  0.442499  1.0
+  Mg  Mg4  1  0.083952  0.619899  0.942499  1.0
+  Ti  Ti5  1  0.576956  0.371921  0.942501  1.0
+  Ti  Ti6  1  0.423044  0.628079  0.442501  1.0
+  Ti  Ti7  1  0.923044  0.871921  0.442501  1.0
+  Ti  Ti8  1  0.076956  0.128079  0.942501  1.0
+  N  N9  1  0.571344  0.388168  0.442501  1.0
+  N  N10  1  0.428656  0.611832  0.942501  1.0
+  N  N11  1  0.928656  0.888168  0.942501  1.0
+  N  N12  1  0.071344  0.111832  0.442501  1.0
+  N  N13  1  0.596950  0.859986  0.442500  1.0
+  N  N14  1  0.403050  0.140014  0.942500  1.0
+  N  N15  1  0.903050  0.359986  0.942500  1.0
+  N  N16  1  0.096950  0.640014  0.442500  1.0

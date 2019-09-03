@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ba(AlTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73534868
+_cell_length_b   7.00705001
+_cell_length_c   7.00705001
+_cell_angle_alpha   76.68556592
+_cell_angle_beta   61.33628813
+_cell_angle_gamma   61.33628813
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(AlTe2)2
+_chemical_formula_sum   'Ba1 Al2 Te4'
+_cell_volume   254.60996211
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.750000  0.000047  0.999953  1.0
+  Al  Al2  1  0.250000  0.499936  0.500064  1.0
+  Al  Al3  1  0.750000  0.500204  0.499796  1.0
+  Te  Te4  1  0.166966  0.499875  0.165698  1.0
+  Te  Te5  1  0.333034  0.834302  0.500125  1.0
+  Te  Te6  1  0.666734  0.165824  0.500188  1.0
+  Te  Te7  1  0.833266  0.499812  0.834176  1.0

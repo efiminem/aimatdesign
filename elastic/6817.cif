@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_UGePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39192798
+_cell_length_b   5.63544508
+_cell_length_c   5.63544507
+_cell_angle_alpha   77.59237643
+_cell_angle_beta   67.06603144
+_cell_angle_gamma   67.06603142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UGePt
+_chemical_formula_sum   'U2 Ge2 Pt2'
+_cell_volume   117.97386115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U1  1  0.460886  0.039114  0.039114  1.0
+  U  U2  1  0.529070  0.470930  0.470930  1.0
+  Ge  Ge3  1  0.836287  0.443693  0.883733  1.0
+  Ge  Ge4  1  0.836287  0.883733  0.443693  1.0
+  Pt  Pt5  1  0.166235  0.622771  0.044759  1.0
+  Pt  Pt6  1  0.166235  0.044759  0.622771  1.0

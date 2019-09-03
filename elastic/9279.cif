@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Bi2CO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93346560
+_cell_length_b   7.64564234
+_cell_length_c   3.93972205
+_cell_angle_alpha   74.56919398
+_cell_angle_beta   89.98924918
+_cell_angle_gamma   105.27564084
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2CO5
+_chemical_formula_sum   'Bi2 C1 O5'
+_cell_volume   109.86133712
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi1  1  0.838907  0.676065  0.151248  1.0
+  Bi  Bi2  1  0.154941  0.323614  0.836526  1.0
+  C  C3  1  0.454587  0.000868  0.448180  1.0
+  O  O4  1  0.219690  0.996462  0.214955  1.0
+  O  O5  1  0.643760  0.165151  0.468244  1.0
+  O  O6  1  0.248844  0.499385  0.243669  1.0
+  O  O7  1  0.488303  0.842204  0.647356  1.0
+  O  O8  1  0.749485  0.500100  0.742437  1.0

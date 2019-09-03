@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Cu(SbO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91462397
+_cell_length_b   8.91456607
+_cell_length_c   5.89161634
+_cell_angle_alpha   89.99927049
+_cell_angle_beta   89.99959394
+_cell_angle_gamma   89.99973758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(SbO2)2
+_chemical_formula_sum   'Cu4 Sb8 O16'
+_cell_volume   468.20677623
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu1  1  0.000006  0.500005  0.249996  1.0
+  Cu  Cu2  1  0.000007  0.500002  0.750005  1.0
+  Cu  Cu3  1  0.500000  0.000000  0.249993  1.0
+  Cu  Cu4  1  0.500000  0.000014  0.749988  1.0
+  Sb  Sb5  1  0.152336  0.811069  0.500030  1.0
+  Sb  Sb6  1  0.188935  0.152301  0.000002  1.0
+  Sb  Sb7  1  0.311059  0.652339  0.000030  1.0
+  Sb  Sb8  1  0.347646  0.311061  0.499994  1.0
+  Sb  Sb9  1  0.652291  0.688933  0.500005  1.0
+  Sb  Sb10  1  0.688967  0.347662  0.999994  1.0
+  Sb  Sb11  1  0.811040  0.847662  0.999999  1.0
+  Sb  Sb12  1  0.847714  0.188942  0.499997  1.0
+  O  O13  1  0.091174  0.619201  0.000008  1.0
+  O  O14  1  0.119196  0.591182  0.500006  1.0
+  O  O15  1  0.196386  0.303562  0.250004  1.0
+  O  O16  1  0.196389  0.303566  0.749994  1.0
+  O  O17  1  0.303550  0.803638  0.249975  1.0
+  O  O18  1  0.303628  0.803553  0.749981  1.0
+  O  O19  1  0.380797  0.091176  0.499993  1.0
+  O  O20  1  0.408826  0.119198  0.000006  1.0
+  O  O21  1  0.591156  0.880799  0.999994  1.0
+  O  O22  1  0.619181  0.908823  0.500005  1.0
+  O  O23  1  0.696460  0.196398  0.249989  1.0
+  O  O24  1  0.696461  0.196393  0.750010  1.0
+  O  O25  1  0.803553  0.696399  0.249998  1.0
+  O  O26  1  0.803553  0.696399  0.750004  1.0
+  O  O27  1  0.880813  0.408833  0.499992  1.0
+  O  O28  1  0.908847  0.380801  0.000001  1.0

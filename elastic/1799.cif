@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_U2Ga2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83272096
+_cell_length_b   4.02445221
+_cell_length_c   4.02442628
+_cell_angle_alpha   90.00594209
+_cell_angle_beta   90.00129575
+_cell_angle_gamma   89.99804328
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U2Ga2O5
+_chemical_formula_sum   'U2 Ga2 O5'
+_cell_volume   110.66350803
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U1  1  0.999992  0.999972  0.999984  1.0
+  U  U2  1  0.499986  0.000004  0.999961  1.0
+  Ga  Ga3  1  0.210861  0.499998  0.499994  1.0
+  Ga  Ga4  1  0.789135  0.499996  0.499998  1.0
+  O  O5  1  0.239291  0.500028  0.000002  1.0
+  O  O6  1  0.760740  0.499993  0.000006  1.0
+  O  O7  1  0.500003  0.499996  0.500013  1.0
+  O  O8  1  0.239277  0.000018  0.500018  1.0
+  O  O9  1  0.760716  0.999989  0.500020  1.0

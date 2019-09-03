@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Co2B4Mo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.02824873
+_cell_length_b   3.07111531
+_cell_length_c   6.59259546
+_cell_angle_alpha   103.46913775
+_cell_angle_beta   103.27767046
+_cell_angle_gamma   90.00000003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2B4Mo
+_chemical_formula_sum   'Co2 B4 Mo1'
+_cell_volume   57.93881217
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co1  1  0.814416  0.814416  0.628831  1.0
+  Co  Co2  1  0.185584  0.185584  0.371169  1.0
+  B  B3  1  0.924991  0.424991  0.849982  1.0
+  B  B4  1  0.075009  0.575009  0.150018  1.0
+  B  B5  1  0.348361  0.348361  0.696722  1.0
+  B  B6  1  0.651639  0.651639  0.303278  1.0
+  Mo  Mo7  1  0.500000  0.000000  0.000000  1.0

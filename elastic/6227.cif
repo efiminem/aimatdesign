@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sm2Ge2Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33954839
+_cell_length_b   5.94855811
+_cell_length_c   9.41365681
+_cell_angle_alpha   82.74671700
+_cell_angle_beta   76.67395033
+_cell_angle_gamma   68.60741274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Ge2Ru
+_chemical_formula_sum   'Sm4 Ge4 Ru2'
+_cell_volume   219.93132636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm1  1  0.315124  0.259547  0.110205  1.0
+  Sm  Sm2  1  0.684876  0.740453  0.889795  1.0
+  Sm  Sm3  1  0.498104  0.329914  0.673878  1.0
+  Sm  Sm4  1  0.501896  0.670086  0.326122  1.0
+  Ge  Ge5  1  0.006113  0.861178  0.126596  1.0
+  Ge  Ge6  1  0.993887  0.138822  0.873404  1.0
+  Ge  Ge7  1  0.849829  0.733748  0.566595  1.0
+  Ge  Ge8  1  0.150171  0.266252  0.433405  1.0
+  Ru  Ru9  1  0.226568  0.922073  0.624791  1.0
+  Ru  Ru10  1  0.773432  0.077927  0.375209  1.0

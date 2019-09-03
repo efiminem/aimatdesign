@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Nd2Ti2S2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.86802718
+_cell_length_b   3.86802756
+_cell_length_c   12.01295933
+_cell_angle_alpha   99.26459741
+_cell_angle_beta   99.26459855
+_cell_angle_gamma   90.00000292
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nd2Ti2S2O5
+_chemical_formula_sum   'Nd2 Ti2 S2 O5'
+_cell_volume   175.01300446
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd1  1  0.334296  0.334296  0.668593  1.0
+  Nd  Nd2  1  0.665704  0.665704  0.331407  1.0
+  Ti  Ti3  1  0.077426  0.077426  0.154853  1.0
+  Ti  Ti4  1  0.922573  0.922573  0.845147  1.0
+  S  S5  1  0.203584  0.203584  0.407167  1.0
+  S  S6  1  0.796417  0.796417  0.592834  1.0
+  O  O7  1  0.903533  0.403533  0.807066  1.0
+  O  O8  1  0.096467  0.596467  0.192935  1.0
+  O  O9  1  0.403533  0.903533  0.807065  1.0
+  O  O10  1  0.596467  0.096467  0.192934  1.0
+  O  O11  1  0.000000  0.000000  0.000000  1.0

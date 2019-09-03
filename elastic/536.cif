@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_PrNiC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.89682382
+_cell_length_b   3.81750174
+_cell_length_c   3.81750174
+_cell_angle_alpha   106.76489082
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiC2
+_chemical_formula_sum   'Pr1 Ni1 C2'
+_cell_volume   54.37589535
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr1  1  0.000000  0.001946  0.998054  1.0
+  Ni  Ni2  1  0.500000  0.615316  0.384684  1.0
+  C  C3  1  0.500000  0.453602  0.845864  1.0
+  C  C4  1  0.500000  0.154136  0.546398  1.0

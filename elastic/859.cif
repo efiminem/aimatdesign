@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Sn4Bi2Se7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   29.77236733
+_cell_length_b   11.28975964
+_cell_length_c   7.42851258
+_cell_angle_alpha   29.15147492
+_cell_angle_beta   30.09465148
+_cell_angle_gamma   18.98234269
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn4Bi2Se7
+_chemical_formula_sum   'Sn4 Bi2 Se7'
+_cell_volume   383.23144101
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn1  1  0.266419  0.041158  0.011628  1.0
+  Sn  Sn2  1  0.439081  0.980170  0.985975  1.0
+  Sn  Sn3  1  0.560924  0.019826  0.014016  1.0
+  Sn  Sn4  1  0.733580  0.958843  0.988374  1.0
+  Bi  Bi5  1  0.144828  0.998207  0.991641  1.0
+  Bi  Bi6  1  0.855174  0.001790  0.008356  1.0
+  Se  Se7  1  0.134267  0.511741  0.524293  1.0
+  Se  Se8  1  0.289043  0.502590  0.468815  1.0
+  Se  Se9  1  0.429038  0.494075  0.513875  1.0
+  Se  Se10  1  0.570959  0.505932  0.486127  1.0
+  Se  Se11  1  0.710956  0.497412  0.531185  1.0
+  Se  Se12  1  0.865733  0.488258  0.475707  1.0
+  Se  Se13  1  0.999998  0.499998  0.500008  1.0

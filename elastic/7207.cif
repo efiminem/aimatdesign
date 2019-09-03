@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73231946
+_cell_length_b   5.73236894
+_cell_length_c   5.73236857
+_cell_angle_alpha   106.96434377
+_cell_angle_beta   106.95892908
+_cell_angle_gamma   114.61656593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScAsO4
+_chemical_formula_sum   'Sc2 As2 O8'
+_cell_volume   144.11720731
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc1  1  0.124959  0.875065  0.249894  1.0
+  Sc  Sc2  1  0.875032  0.124931  0.750102  1.0
+  As  As3  1  0.374975  0.624981  0.749995  1.0
+  As  As4  1  0.625024  0.375020  0.250003  1.0
+  O  O5  1  0.188743  0.625186  0.936458  1.0
+  O  O6  1  0.188743  0.252285  0.563557  1.0
+  O  O7  1  0.252255  0.188721  0.063535  1.0
+  O  O8  1  0.811259  0.374815  0.063544  1.0
+  O  O9  1  0.625192  0.188723  0.436469  1.0
+  O  O10  1  0.747748  0.811281  0.936467  1.0
+  O  O11  1  0.811259  0.747715  0.436444  1.0
+  O  O12  1  0.374811  0.811278  0.563533  1.0

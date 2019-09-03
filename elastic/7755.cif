@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Be12Nb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.21303830
+_cell_length_b   5.58828860
+_cell_length_c   5.58828853
+_cell_angle_alpha   81.83101115
+_cell_angle_beta   67.85495487
+_cell_angle_gamma   67.85496160
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be12Nb
+_chemical_formula_sum   'Be12 Nb1'
+_cell_volume   112.87380501
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be1  1  0.500000  0.783010  0.216990  1.0
+  Be  Be2  1  0.352406  0.647594  0.647594  1.0
+  Be  Be3  1  0.000000  0.352406  0.647594  1.0
+  Be  Be4  1  0.000000  0.647594  0.352406  1.0
+  Be  Be5  1  0.716990  0.783010  0.783010  1.0
+  Be  Be6  1  0.500000  0.000000  0.500000  1.0
+  Be  Be7  1  0.500000  0.216990  0.783010  1.0
+  Be  Be8  1  0.647594  0.352406  0.352406  1.0
+  Be  Be9  1  0.283010  0.216990  0.216990  1.0
+  Be  Be10  1  0.500000  0.500000  0.000000  1.0
+  Be  Be11  1  0.000000  0.500000  0.000000  1.0
+  Be  Be12  1  0.000000  0.000000  0.500000  1.0
+  Nb  Nb13  1  0.000000  0.000000  0.000000  1.0

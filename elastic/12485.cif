@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13885108
+_cell_length_b   5.31909658
+_cell_length_c   6.58774387
+_cell_angle_alpha   112.14408441
+_cell_angle_beta   111.24259340
+_cell_angle_gamma   93.93628494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoNbO4
+_chemical_formula_sum   'Ho2 Nb2 O8'
+_cell_volume   150.99910562
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho1  1  0.121928  0.371928  0.743855  1.0
+  Ho  Ho2  1  0.878072  0.628072  0.256145  1.0
+  Nb  Nb3  1  0.641360  0.891360  0.782719  1.0
+  Nb  Nb4  1  0.358640  0.108640  0.217281  1.0
+  O  O5  1  0.790998  0.950807  0.578289  1.0
+  O  O6  1  0.287291  0.627482  0.578289  1.0
+  O  O7  1  0.209002  0.049193  0.421711  1.0
+  O  O8  1  0.712709  0.372518  0.421711  1.0
+  O  O9  1  0.078351  0.283369  0.064995  1.0
+  O  O10  1  0.486644  0.781626  0.064995  1.0
+  O  O11  1  0.921649  0.716631  0.935005  1.0
+  O  O12  1  0.513356  0.218374  0.935005  1.0

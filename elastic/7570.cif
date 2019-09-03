@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ta2Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41383242
+_cell_length_b   9.92245041
+_cell_length_c   9.92233932
+_cell_angle_alpha   89.99489792
+_cell_angle_beta   89.99976823
+_cell_angle_gamma   90.00013927
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Al
+_chemical_formula_sum   'Ta20 Al10'
+_cell_volume   533.01302106
+_cell_formula_units_Z   10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta1  1  0.751638  0.188578  0.188572  1.0
+  Ta  Ta2  1  0.500000  0.562226  0.762951  1.0
+  Ta  Ta3  1  0.499996  0.237030  0.437763  1.0
+  Ta  Ta4  1  0.000000  0.062250  0.737040  1.0
+  Ta  Ta5  1  0.251623  0.688555  0.311434  1.0
+  Ta  Ta6  1  0.500001  0.096850  0.903160  1.0
+  Ta  Ta7  1  0.000000  0.937766  0.262955  1.0
+  Ta  Ta8  1  0.748378  0.688554  0.311434  1.0
+  Ta  Ta9  1  0.251627  0.311429  0.688570  1.0
+  Ta  Ta10  1  0.248359  0.188580  0.188573  1.0
+  Ta  Ta11  1  0.000001  0.596839  0.596859  1.0
+  Ta  Ta12  1  0.500001  0.437757  0.237042  1.0
+  Ta  Ta13  1  0.999999  0.262969  0.937756  1.0
+  Ta  Ta14  1  0.248369  0.811443  0.811432  1.0
+  Ta  Ta15  1  0.999999  0.403132  0.403146  1.0
+  Ta  Ta16  1  0.500000  0.903191  0.096824  1.0
+  Ta  Ta17  1  0.000000  0.737064  0.062245  1.0
+  Ta  Ta18  1  0.748373  0.311428  0.688569  1.0
+  Ta  Ta19  1  0.751631  0.811444  0.811433  1.0
+  Ta  Ta20  1  0.500003  0.762928  0.562239  1.0
+  Al  Al21  1  0.999994  0.136107  0.465250  1.0
+  Al  Al22  1  0.000000  0.534739  0.863904  1.0
+  Al  Al23  1  0.500000  0.363857  0.965317  1.0
+  Al  Al24  1  0.500001  0.965311  0.363856  1.0
+  Al  Al25  1  0.499999  0.034679  0.636146  1.0
+  Al  Al26  1  0.000000  0.465253  0.136114  1.0
+  Al  Al27  1  0.000003  0.863894  0.534734  1.0
+  Al  Al28  1  0.500000  0.636150  0.034681  1.0
+  Al  Al29  1  0.000001  0.000028  0.000001  1.0
+  Al  Al30  1  0.500000  0.499969  0.499999  1.0

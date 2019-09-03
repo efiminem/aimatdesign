@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TlCuCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86429302
+_cell_length_b   4.86441702
+_cell_length_c   4.87140455
+_cell_angle_alpha   90.05541548
+_cell_angle_beta   90.05131374
+_cell_angle_gamma   89.95768154
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCuCl3
+_chemical_formula_sum   'Tl1 Cu1 Cl3'
+_cell_volume   115.26679820
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl1  1  0.000344  0.005297  0.001517  1.0
+  Cu  Cu2  1  0.500101  0.513764  0.502354  1.0
+  Cl  Cl3  1  0.000018  0.514692  0.504099  1.0
+  Cl  Cl4  1  0.498794  0.013837  0.499624  1.0
+  Cl  Cl5  1  0.500746  0.512414  0.002407  1.0

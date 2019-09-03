@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrTa2Bi2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61412479
+_cell_length_b   5.60194078
+_cell_length_c   13.06406754
+_cell_angle_alpha   102.38048309
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTa2Bi2O9
+_chemical_formula_sum   'Sr2 Ta4 Bi4 O18'
+_cell_volume   401.31034264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.016611  0.749332  0.000000  1.0
+  Sr  Sr2  1  0.516611  0.250668  0.000000  1.0
+  Ta  Ta3  1  0.022103  0.330453  0.165195  1.0
+  Ta  Ta4  1  0.522103  0.834742  0.165195  1.0
+  Ta  Ta5  1  0.022103  0.165258  0.834805  1.0
+  Ta  Ta6  1  0.522103  0.669547  0.834805  1.0
+  Bi  Bi7  1  0.926743  0.984860  0.400292  1.0
+  Bi  Bi8  1  0.426743  0.015140  0.599708  1.0
+  Bi  Bi9  1  0.426743  0.415432  0.400292  1.0
+  Bi  Bi10  1  0.926743  0.584568  0.599708  1.0
+  O  O11  1  0.796050  0.599542  0.169120  1.0
+  O  O12  1  0.296050  0.400458  0.830880  1.0
+  O  O13  1  0.296050  0.569578  0.169120  1.0
+  O  O14  1  0.796050  0.430422  0.830880  1.0
+  O  O15  1  0.772875  0.077205  0.132280  1.0
+  O  O16  1  0.272875  0.922795  0.867720  1.0
+  O  O17  1  0.272875  0.055074  0.132280  1.0
+  O  O18  1  0.772875  0.944926  0.867720  1.0
+  O  O19  1  0.711954  0.268936  0.501458  1.0
+  O  O20  1  0.211954  0.731064  0.498542  1.0
+  O  O21  1  0.537710  0.701049  0.000000  1.0
+  O  O22  1  0.037710  0.298951  0.000000  1.0
+  O  O23  1  0.541614  0.982079  0.310389  1.0
+  O  O24  1  0.041614  0.017921  0.689611  1.0
+  O  O25  1  0.041614  0.328310  0.310389  1.0
+  O  O26  1  0.541614  0.671690  0.689611  1.0
+  O  O27  1  0.711954  0.767478  0.498542  1.0
+  O  O28  1  0.211954  0.232522  0.501458  1.0

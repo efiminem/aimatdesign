@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_BaEr2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29229534
+_cell_length_b   6.33111454
+_cell_length_c   6.33111455
+_cell_angle_alpha   112.86232846
+_cell_angle_beta   95.03022009
+_cell_angle_gamma   95.03022006
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaEr2F8
+_chemical_formula_sum   'Ba1 Er2 F8'
+_cell_volume   156.52633341
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.000000  0.000000  0.000000  1.0
+  Er  Er2  1  0.500000  0.324280  0.675720  1.0
+  Er  Er3  1  0.500000  0.675720  0.324280  1.0
+  F  F4  1  0.000000  0.737864  0.262136  1.0
+  F  F5  1  0.000000  0.262136  0.737864  1.0
+  F  F6  1  0.228466  0.393577  0.393577  1.0
+  F  F7  1  0.438300  0.671228  0.954296  1.0
+  F  F8  1  0.561700  0.045704  0.328772  1.0
+  F  F9  1  0.561700  0.328772  0.045704  1.0
+  F  F10  1  0.438300  0.954296  0.671228  1.0
+  F  F11  1  0.771534  0.606423  0.606423  1.0

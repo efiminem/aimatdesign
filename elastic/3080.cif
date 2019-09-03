@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ti3TeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49924992
+_cell_length_b   7.34273249
+_cell_length_c   5.50075163
+_cell_angle_alpha   85.62590169
+_cell_angle_beta   77.88372417
+_cell_angle_gamma   85.97377575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3TeO8
+_chemical_formula_sum   'Ti3 Te1 O8'
+_cell_volume   216.20222633
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.113209  0.112414  0.007299  1.0
+  Ti  Ti2  1  0.393518  0.631923  0.494138  1.0
+  Ti  Ti3  1  0.593160  0.381568  0.982944  1.0
+  Te  Te4  1  0.831169  0.883414  0.594370  1.0
+  O  O5  1  0.995334  0.057784  0.347181  1.0
+  O  O6  1  0.050846  0.679171  0.487199  1.0
+  O  O7  1  0.438294  0.181269  0.928300  1.0
+  O  O8  1  0.504050  0.581096  0.787723  1.0
+  O  O9  1  0.487348  0.434041  0.306642  1.0
+  O  O10  1  0.585368  0.816194  0.365878  1.0
+  O  O11  1  0.925689  0.312451  0.922262  1.0
+  O  O12  1  0.082015  0.928674  0.824464  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.16156270
+_cell_length_b   5.35070011
+_cell_length_c   5.54298502
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   96.52288772
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTaO4
+_chemical_formula_sum   'Y2 Ta2 O8'
+_cell_volume   152.09502293
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y1  1  0.000000  0.750000  0.232052  1.0
+  Y  Y2  1  0.000000  0.250000  0.767948  1.0
+  Ta  Ta3  1  0.500000  0.750000  0.691980  1.0
+  Ta  Ta4  1  0.500000  0.250000  0.308020  1.0
+  O  O5  1  0.250027  0.601321  0.912410  1.0
+  O  O6  1  0.749973  0.898679  0.912410  1.0
+  O  O7  1  0.749973  0.398679  0.087590  1.0
+  O  O8  1  0.250027  0.101321  0.087590  1.0
+  O  O9  1  0.269837  0.497037  0.434234  1.0
+  O  O10  1  0.730163  0.002963  0.434234  1.0
+  O  O11  1  0.730163  0.502963  0.565766  1.0
+  O  O12  1  0.269837  0.997037  0.565766  1.0

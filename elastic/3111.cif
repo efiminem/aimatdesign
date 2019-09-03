@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Zn2ReN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60189890
+_cell_length_b   10.03565776
+_cell_length_c   5.29981950
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2ReN3
+_chemical_formula_sum   'Zn8 Re4 N12'
+_cell_volume   297.94917540
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.360335  0.833513  0.479380  1.0
+  Zn  Zn2  1  0.860335  0.666487  0.479380  1.0
+  Zn  Zn3  1  0.139665  0.666487  0.979380  1.0
+  Zn  Zn4  1  0.639665  0.833513  0.979380  1.0
+  Zn  Zn5  1  0.860335  0.333513  0.479380  1.0
+  Zn  Zn6  1  0.360335  0.166487  0.479380  1.0
+  Zn  Zn7  1  0.639665  0.166487  0.979380  1.0
+  Zn  Zn8  1  0.139665  0.333513  0.979380  1.0
+  Re  Re9  1  0.629908  0.500000  0.944129  1.0
+  Re  Re10  1  0.870092  0.000000  0.444129  1.0
+  Re  Re11  1  0.129909  0.000000  0.944129  1.0
+  Re  Re12  1  0.370092  0.500000  0.444129  1.0
+  N  N13  1  0.289922  0.840674  0.862689  1.0
+  N  N14  1  0.789922  0.659326  0.862689  1.0
+  N  N15  1  0.210078  0.659326  0.362689  1.0
+  N  N16  1  0.710078  0.840674  0.362689  1.0
+  N  N17  1  0.198220  0.000000  0.316112  1.0
+  N  N18  1  0.301780  0.500000  0.816112  1.0
+  N  N19  1  0.789922  0.340674  0.862689  1.0
+  N  N20  1  0.289922  0.159326  0.862689  1.0
+  N  N21  1  0.710078  0.159326  0.362689  1.0
+  N  N22  1  0.210078  0.340674  0.362689  1.0
+  N  N23  1  0.698220  0.500000  0.316112  1.0
+  N  N24  1  0.801780  0.000000  0.816112  1.0

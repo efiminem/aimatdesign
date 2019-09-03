@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_ThTi2O6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84684516
+_cell_length_b   5.34027049
+_cell_length_c   6.65211869
+_cell_angle_alpha   71.58637841
+_cell_angle_beta   73.19326314
+_cell_angle_gamma   68.88916366
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThTi2O6
+_chemical_formula_sum   'Th1 Ti2 O6'
+_cell_volume   118.55906700
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th1  1  0.000000  0.000000  0.000000  1.0
+  Ti  Ti2  1  0.823298  0.746046  0.607358  1.0
+  Ti  Ti3  1  0.176702  0.253954  0.392642  1.0
+  O  O4  1  0.278197  0.847937  0.595669  1.0
+  O  O5  1  0.721803  0.152063  0.404331  1.0
+  O  O6  1  0.654264  0.800379  0.891092  1.0
+  O  O7  1  0.024970  0.639812  0.310247  1.0
+  O  O8  1  0.975030  0.360188  0.689753  1.0
+  O  O9  1  0.345736  0.199621  0.108908  1.0

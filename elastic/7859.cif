@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_La2Pd2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66666412
+_cell_length_b   6.75307247
+_cell_length_c   6.75307247
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Pd2O5
+_chemical_formula_sum   'La4 Pd4 O10'
+_cell_volume   258.42248131
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La1  1  0.500000  0.107592  0.738032  1.0
+  La  La2  1  0.000000  0.738032  0.892408  1.0
+  La  La3  1  0.500000  0.892408  0.261968  1.0
+  La  La4  1  0.000000  0.261968  0.107592  1.0
+  Pd  Pd5  1  0.000000  0.308990  0.594598  1.0
+  Pd  Pd6  1  0.500000  0.405402  0.308990  1.0
+  Pd  Pd7  1  0.000000  0.691010  0.405402  1.0
+  Pd  Pd8  1  0.500000  0.594598  0.691010  1.0
+  O  O9  1  0.257438  0.800708  0.596623  1.0
+  O  O10  1  0.757438  0.403377  0.800708  1.0
+  O  O11  1  0.742562  0.199292  0.403377  1.0
+  O  O12  1  0.257438  0.199292  0.403377  1.0
+  O  O13  1  0.750000  0.000000  0.000000  1.0
+  O  O14  1  0.757438  0.596623  0.199292  1.0
+  O  O15  1  0.242562  0.596623  0.199292  1.0
+  O  O16  1  0.742562  0.800708  0.596623  1.0
+  O  O17  1  0.250000  0.000000  0.000000  1.0
+  O  O18  1  0.242562  0.403377  0.800708  1.0

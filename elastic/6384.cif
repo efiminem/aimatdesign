@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrNiSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19403772
+_cell_length_b   6.77745329
+_cell_length_c   7.64672575
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrNiSb
+_chemical_formula_sum   'Zr4 Ni4 Sb4'
+_cell_volume   217.35737458
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  0.750000  0.998253  0.194924  1.0
+  Zr  Zr2  1  0.250000  0.001747  0.805076  1.0
+  Zr  Zr3  1  0.750000  0.498253  0.305076  1.0
+  Zr  Zr4  1  0.250000  0.501747  0.694924  1.0
+  Ni  Ni5  1  0.250000  0.678540  0.085726  1.0
+  Ni  Ni6  1  0.750000  0.321460  0.914274  1.0
+  Ni  Ni7  1  0.250000  0.178540  0.414274  1.0
+  Ni  Ni8  1  0.750000  0.821460  0.585726  1.0
+  Sb  Sb9  1  0.250000  0.790235  0.405992  1.0
+  Sb  Sb10  1  0.750000  0.209765  0.594008  1.0
+  Sb  Sb11  1  0.250000  0.290235  0.094008  1.0
+  Sb  Sb12  1  0.750000  0.709765  0.905992  1.0

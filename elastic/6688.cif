@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Zn(SbO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08141099
+_cell_length_b   8.66893248
+_cell_length_c   8.66893248
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn(SbO2)2
+_chemical_formula_sum   'Zn4 Sb8 O16'
+_cell_volume   457.02040973
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn1  1  0.250000  0.000000  0.500000  1.0
+  Zn  Zn2  1  0.750000  0.500000  0.000000  1.0
+  Zn  Zn3  1  0.750000  0.000000  0.500000  1.0
+  Zn  Zn4  1  0.250000  0.500000  0.000000  1.0
+  Sb  Sb5  1  0.000000  0.820295  0.835871  1.0
+  Sb  Sb6  1  0.500000  0.164129  0.820295  1.0
+  Sb  Sb7  1  0.500000  0.835871  0.179705  1.0
+  Sb  Sb8  1  0.000000  0.179705  0.164129  1.0
+  Sb  Sb9  1  0.000000  0.679705  0.335871  1.0
+  Sb  Sb10  1  0.000000  0.320295  0.664129  1.0
+  Sb  Sb11  1  0.500000  0.664129  0.679705  1.0
+  Sb  Sb12  1  0.500000  0.335871  0.320295  1.0
+  O  O13  1  0.500000  0.861651  0.405970  1.0
+  O  O14  1  0.500000  0.138349  0.594030  1.0
+  O  O15  1  0.000000  0.405970  0.138349  1.0
+  O  O16  1  0.000000  0.594030  0.861651  1.0
+  O  O17  1  0.000000  0.905970  0.361651  1.0
+  O  O18  1  0.500000  0.638349  0.905970  1.0
+  O  O19  1  0.500000  0.361651  0.094030  1.0
+  O  O20  1  0.000000  0.094030  0.638349  1.0
+  O  O21  1  0.750000  0.681381  0.181381  1.0
+  O  O22  1  0.250000  0.818619  0.681381  1.0
+  O  O23  1  0.250000  0.181381  0.318619  1.0
+  O  O24  1  0.750000  0.318619  0.818619  1.0
+  O  O25  1  0.250000  0.681381  0.181381  1.0
+  O  O26  1  0.750000  0.818619  0.681381  1.0
+  O  O27  1  0.750000  0.181381  0.318619  1.0
+  O  O28  1  0.250000  0.318619  0.818619  1.0

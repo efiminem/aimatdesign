@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ce2Fe12P7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00486819
+_cell_length_b   9.00486814
+_cell_length_c   3.65676217
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Fe12P7
+_chemical_formula_sum   'Ce2 Fe12 P7'
+_cell_volume   256.79233963
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce1  1  0.333333  0.666667  0.000000  1.0
+  Ce  Ce2  1  0.666667  0.333333  0.500000  1.0
+  Fe  Fe3  1  0.429452  0.060941  0.000000  1.0
+  Fe  Fe4  1  0.631489  0.570548  0.000000  1.0
+  Fe  Fe5  1  0.939059  0.368511  0.000000  1.0
+  Fe  Fe6  1  0.151095  0.272575  0.000000  1.0
+  Fe  Fe7  1  0.121480  0.848905  0.000000  1.0
+  Fe  Fe8  1  0.727425  0.878520  0.000000  1.0
+  Fe  Fe9  1  0.381670  0.434573  0.500000  1.0
+  Fe  Fe10  1  0.052903  0.618330  0.500000  1.0
+  Fe  Fe11  1  0.565427  0.947097  0.500000  1.0
+  Fe  Fe12  1  0.217379  0.099648  0.500000  1.0
+  Fe  Fe13  1  0.882269  0.782621  0.500000  1.0
+  Fe  Fe14  1  0.900352  0.117731  0.500000  1.0
+  P  P15  1  0.405799  0.299769  0.000000  1.0
+  P  P16  1  0.893970  0.594201  0.000000  1.0
+  P  P17  1  0.700231  0.106030  0.000000  1.0
+  P  P18  1  0.105763  0.396757  0.500000  1.0
+  P  P19  1  0.290994  0.894237  0.500000  1.0
+  P  P20  1  0.603243  0.709006  0.500000  1.0
+  P  P21  1  0.000000  0.000000  0.000000  1.0

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_BaAg2SnSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.77408636
+_cell_length_b   6.77408723
+_cell_length_c   6.77408716
+_cell_angle_alpha   101.39039498
+_cell_angle_beta   111.54356833
+_cell_angle_gamma   115.80428452
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaAg2SnSe4
+_chemical_formula_sum   'Ba1 Ag2 Sn1 Se4'
+_cell_volume   235.41356403
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.000000  0.000000  0.000000  1.0
+  Ag  Ag2  1  0.500000  0.809619  0.309619  1.0
+  Ag  Ag3  1  0.500000  0.190381  0.690381  1.0
+  Sn  Sn4  1  0.000000  0.500000  0.500000  1.0
+  Se  Se5  1  0.010160  0.531623  0.130712  1.0
+  Se  Se6  1  0.400910  0.879447  0.869288  1.0
+  Se  Se7  1  0.989840  0.120553  0.521463  1.0
+  Se  Se8  1  0.599090  0.468377  0.478537  1.0

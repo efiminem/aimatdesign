@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Na3CoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.06203095
+_cell_length_b   9.23015847
+_cell_length_c   4.51600582
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   89.95997811
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CoO3
+_chemical_formula_sum   'Na12 Co4 O12'
+_cell_volume   377.73661614
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.129960  0.626882  0.000000  1.0
+  Na  Na2  1  0.126401  0.370278  0.500000  1.0
+  Na  Na3  1  0.144734  0.855137  0.500000  1.0
+  Na  Na4  1  0.355654  0.355569  0.000000  1.0
+  Na  Na5  1  0.373562  0.870039  0.000000  1.0
+  Na  Na6  1  0.370658  0.127064  0.500000  1.0
+  Na  Na7  1  0.629818  0.873297  0.500000  1.0
+  Na  Na8  1  0.626639  0.130171  0.000000  1.0
+  Na  Na9  1  0.644618  0.644205  0.000000  1.0
+  Na  Na10  1  0.854919  0.144894  0.500000  1.0
+  Na  Na11  1  0.873197  0.629334  0.500000  1.0
+  Na  Na12  1  0.869742  0.373064  0.000000  1.0
+  Co  Co13  1  0.113772  0.114246  0.000000  1.0
+  Co  Co14  1  0.386358  0.614242  0.500000  1.0
+  Co  Co15  1  0.613368  0.386204  0.500000  1.0
+  Co  Co16  1  0.886714  0.886278  0.000000  1.0
+  O  O17  1  0.092117  0.903047  0.000000  1.0
+  O  O18  1  0.105929  0.311828  0.000000  1.0
+  O  O19  1  0.191115  0.605834  0.500000  1.0
+  O  O20  1  0.309181  0.105779  0.000000  1.0
+  O  O21  1  0.393844  0.811888  0.500000  1.0
+  O  O22  1  0.408075  0.403122  0.500000  1.0
+  O  O23  1  0.591792  0.596958  0.500000  1.0
+  O  O24  1  0.606466  0.188081  0.500000  1.0
+  O  O25  1  0.691148  0.893944  0.000000  1.0
+  O  O26  1  0.808685  0.393837  0.500000  1.0
+  O  O27  1  0.893499  0.687817  0.000000  1.0
+  O  O28  1  0.908073  0.097001  0.000000  1.0

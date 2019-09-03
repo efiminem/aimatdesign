@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn2CoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19745385
+_cell_length_b   6.16440132
+_cell_length_c   8.27075887
+_cell_angle_alpha   89.58924876
+_cell_angle_beta   89.91114184
+_cell_angle_gamma   83.98382992
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2CoO4
+_chemical_formula_sum   'Mn8 Co4 O16'
+_cell_volume   314.22426151
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn1  1  0.994408  0.998951  0.995892  1.0
+  Mn  Mn2  1  0.749317  0.505510  0.122881  1.0
+  Mn  Mn3  1  0.743587  0.991823  0.624338  1.0
+  Mn  Mn4  1  0.255543  0.505556  0.125550  1.0
+  Mn  Mn5  1  0.999211  0.251445  0.376921  1.0
+  Mn  Mn6  1  0.251102  0.996174  0.626493  1.0
+  Mn  Mn7  1  0.498476  0.251236  0.873362  1.0
+  Mn  Mn8  1  0.000742  0.748484  0.377099  1.0
+  Co  Co9  1  0.498677  0.998572  0.248532  1.0
+  Co  Co10  1  0.501444  0.501252  0.501561  1.0
+  Co  Co11  1  0.500504  0.749326  0.873325  1.0
+  Co  Co12  1  0.004318  0.501444  0.753275  1.0
+  O  O13  1  0.765871  0.991765  0.386115  1.0
+  O  O14  1  0.009335  0.729288  0.140842  1.0
+  O  O15  1  0.490600  0.266627  0.109544  1.0
+  O  O16  1  0.007974  0.232886  0.618355  1.0
+  O  O17  1  0.508313  0.736584  0.109128  1.0
+  O  O18  1  0.764849  0.492303  0.363548  1.0
+  O  O19  1  0.993144  0.273425  0.136837  1.0
+  O  O20  1  0.509912  0.233388  0.637685  1.0
+  O  O21  1  0.236199  0.506928  0.365390  1.0
+  O  O22  1  0.272467  0.992096  0.860841  1.0
+  O  O23  1  0.233050  0.009286  0.387301  1.0
+  O  O24  1  0.734912  0.507085  0.885769  1.0
+  O  O25  1  0.491277  0.762953  0.638324  1.0
+  O  O26  1  0.707922  0.976889  0.863607  1.0
+  O  O27  1  0.990969  0.766391  0.614192  1.0
+  O  O28  1  0.285874  0.522335  0.883290  1.0

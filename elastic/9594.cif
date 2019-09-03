@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_HfGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.79449659
+_cell_length_b   3.83901764
+_cell_length_c   7.72109552
+_cell_angle_alpha   104.39502356
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGe2
+_chemical_formula_sum   'Hf2 Ge4'
+_cell_volume   108.94311721
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf1  1  0.250000  0.895854  0.791709  1.0
+  Hf  Hf2  1  0.750000  0.104146  0.208291  1.0
+  Ge  Ge3  1  0.250000  0.560960  0.121920  1.0
+  Ge  Ge4  1  0.750000  0.439040  0.878080  1.0
+  Ge  Ge5  1  0.750000  0.749826  0.499653  1.0
+  Ge  Ge6  1  0.250000  0.250174  0.500347  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na5Co2S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52524728
+_cell_length_b   7.18833226
+_cell_length_c   7.18833276
+_cell_angle_alpha   81.50621105
+_cell_angle_beta   67.39843545
+_cell_angle_gamma   67.39843748
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5Co2S5
+_chemical_formula_sum   'Na5 Co2 S5'
+_cell_volume   243.33208247
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na1  1  0.153681  0.000000  0.391831  1.0
+  Na  Na2  1  0.545512  0.000000  0.608169  1.0
+  Na  Na3  1  0.545512  0.608169  0.000000  1.0
+  Na  Na4  1  0.153681  0.391831  0.000000  1.0
+  Na  Na5  1  0.931318  0.000000  0.000000  1.0
+  Co  Co6  1  0.736376  0.500000  0.500000  1.0
+  Co  Co7  1  0.236376  0.500000  0.500000  1.0
+  S  S8  1  0.305016  0.680602  0.680602  1.0
+  S  S9  1  0.666221  0.319398  0.319398  1.0
+  S  S10  1  0.985618  0.680602  0.319398  1.0
+  S  S11  1  0.446069  0.000000  0.000000  1.0
+  S  S12  1  0.985618  0.319398  0.680602  1.0

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Sn(PbO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48238022
+_cell_length_b   8.89939967
+_cell_length_c   8.94148736
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn(PbO2)2
+_chemical_formula_sum   'Sn4 Pb8 O16'
+_cell_volume   515.82807872
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn1  1  0.750038  0.500000  0.000000  1.0
+  Sn  Sn2  1  0.249962  0.000000  0.500000  1.0
+  Sn  Sn3  1  0.249962  0.500000  0.000000  1.0
+  Sn  Sn4  1  0.750038  0.000000  0.500000  1.0
+  Pb  Pb5  1  0.000000  0.662656  0.356545  1.0
+  Pb  Pb6  1  0.000000  0.337344  0.643455  1.0
+  Pb  Pb7  1  0.000000  0.162656  0.143455  1.0
+  Pb  Pb8  1  0.000000  0.837344  0.856545  1.0
+  Pb  Pb9  1  0.500000  0.142199  0.835432  1.0
+  Pb  Pb10  1  0.500000  0.857801  0.164568  1.0
+  Pb  Pb11  1  0.500000  0.642199  0.664568  1.0
+  Pb  Pb12  1  0.500000  0.357801  0.335432  1.0
+  O  O13  1  0.500000  0.095476  0.376408  1.0
+  O  O14  1  0.500000  0.904524  0.623592  1.0
+  O  O15  1  0.500000  0.595476  0.123592  1.0
+  O  O16  1  0.500000  0.404524  0.876408  1.0
+  O  O17  1  0.000000  0.123813  0.404520  1.0
+  O  O18  1  0.000000  0.876187  0.595480  1.0
+  O  O19  1  0.000000  0.623813  0.095480  1.0
+  O  O20  1  0.000000  0.376187  0.904520  1.0
+  O  O21  1  0.749875  0.334409  0.164473  1.0
+  O  O22  1  0.749875  0.665591  0.835527  1.0
+  O  O23  1  0.250125  0.834409  0.335527  1.0
+  O  O24  1  0.250125  0.165591  0.664473  1.0
+  O  O25  1  0.749875  0.834409  0.335527  1.0
+  O  O26  1  0.749875  0.165591  0.664473  1.0
+  O  O27  1  0.250125  0.334409  0.164473  1.0
+  O  O28  1  0.250125  0.665591  0.835527  1.0

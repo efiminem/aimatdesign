@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_TiInPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.57115376
+_cell_length_b   4.57182279
+_cell_length_c   4.57340768
+_cell_angle_alpha   59.99740125
+_cell_angle_beta   60.00496283
+_cell_angle_gamma   59.99497386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiInPd2
+_chemical_formula_sum   'Ti1 In1 Pd2'
+_cell_volume   67.58205483
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti1  1  0.750033  0.749981  0.749980  1.0
+  In  In2  1  0.249978  0.250012  0.250015  1.0
+  Pd  Pd3  1  0.999991  0.000001  0.000000  1.0
+  Pd  Pd4  1  0.499998  0.500006  0.500005  1.0

@@ -1,0 +1,28 @@
+# generated using pymatgen
+data_TbZr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.39949236
+_cell_length_b   3.39948882
+_cell_length_c   5.43099140
+_cell_angle_alpha   89.99696148
+_cell_angle_beta   90.00304729
+_cell_angle_gamma   119.99875359
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbZr
+_chemical_formula_sum   'Tb1 Zr1'
+_cell_volume   54.35542392
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb1  1  0.666676  0.333323  0.749998  1.0
+  Zr  Zr2  1  0.333324  0.666677  0.250002  1.0

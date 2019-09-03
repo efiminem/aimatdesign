@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_Mg6CoC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46210091
+_cell_length_b   6.46210037
+_cell_length_c   3.57745687
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   107.33165888
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6CoC
+_chemical_formula_sum   'Mg6 Co1 C1'
+_cell_volume   142.60725019
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg1  1  0.214691  0.931859  0.250000  1.0
+  Mg  Mg2  1  0.568141  0.285309  0.250000  1.0
+  Mg  Mg3  1  0.650234  0.849766  0.250000  1.0
+  Mg  Mg4  1  0.340781  0.522879  0.750000  1.0
+  Mg  Mg5  1  0.977121  0.159219  0.750000  1.0
+  Mg  Mg6  1  0.874245  0.625755  0.750000  1.0
+  Co  Co7  1  0.035730  0.464270  0.250000  1.0
+  C  C8  1  0.339058  0.160942  0.750000  1.0

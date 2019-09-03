@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrIn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.44235239
+_cell_length_b   4.44235239
+_cell_length_c   14.14489193
+_cell_angle_alpha   99.03456431
+_cell_angle_beta   99.03456429
+_cell_angle_gamma   89.99999997
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrIn2
+_chemical_formula_sum   'Zr4 In8'
+_cell_volume   272.17203916
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr1  1  0.702377  0.952377  0.904755  1.0
+  Zr  Zr2  1  0.452377  0.202377  0.404755  1.0
+  Zr  Zr3  1  0.297623  0.047623  0.095245  1.0
+  Zr  Zr4  1  0.547623  0.797623  0.595245  1.0
+  In  In5  1  0.875509  0.125509  0.251018  1.0
+  In  In6  1  0.625509  0.375509  0.751018  1.0
+  In  In7  1  0.124491  0.874491  0.748982  1.0
+  In  In8  1  0.374491  0.624491  0.248982  1.0
+  In  In9  1  0.037120  0.287120  0.574240  1.0
+  In  In10  1  0.787120  0.537120  0.074240  1.0
+  In  In11  1  0.962880  0.712880  0.425760  1.0
+  In  In12  1  0.212880  0.462880  0.925760  1.0

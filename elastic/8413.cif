@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ni2As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83246805
+_cell_length_b   5.40723800
+_cell_length_c   5.40723782
+_cell_angle_alpha   106.85421330
+_cell_angle_beta   96.83799282
+_cell_angle_gamma   96.83795805
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2As2O7
+_chemical_formula_sum   'Ni2 As2 O7'
+_cell_volume   132.49650348
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni1  1  0.500000  0.688087  0.311913  1.0
+  Ni  Ni2  1  0.500000  0.311913  0.688087  1.0
+  As  As3  1  0.103510  0.757495  0.757496  1.0
+  As  As4  1  0.896490  0.242503  0.242503  1.0
+  O  O5  1  0.289790  0.929889  0.593947  1.0
+  O  O6  1  0.710210  0.406053  0.070110  1.0
+  O  O7  1  0.710210  0.070110  0.406053  1.0
+  O  O8  1  0.289790  0.593947  0.929890  1.0
+  O  O9  1  0.000000  0.000000  0.000000  1.0
+  O  O10  1  0.227070  0.408298  0.408298  1.0
+  O  O11  1  0.772929  0.591701  0.591701  1.0

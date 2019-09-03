@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3GaN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15490326
+_cell_length_b   8.15491528
+_cell_length_c   5.79815338
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99996637
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3GaN3
+_chemical_formula_sum   'Ba6 Ga2 N6'
+_cell_volume   333.93254363
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.934173  0.638229  0.250000  1.0
+  Ba  Ba2  1  0.704057  0.065827  0.250000  1.0
+  Ba  Ba3  1  0.361772  0.295943  0.250000  1.0
+  Ba  Ba4  1  0.065827  0.361771  0.750000  1.0
+  Ba  Ba5  1  0.295943  0.934173  0.750000  1.0
+  Ba  Ba6  1  0.638228  0.704057  0.750000  1.0
+  Ga  Ga7  1  0.666665  0.333332  0.750000  1.0
+  Ga  Ga8  1  0.333335  0.666668  0.250000  1.0
+  N  N9  1  0.890392  0.581484  0.750000  1.0
+  N  N10  1  0.691092  0.109607  0.750000  1.0
+  N  N11  1  0.418515  0.308907  0.750000  1.0
+  N  N12  1  0.109608  0.418516  0.250000  1.0
+  N  N13  1  0.308908  0.890393  0.250000  1.0
+  N  N14  1  0.581485  0.691093  0.250000  1.0

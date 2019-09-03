@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CsGdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.61675099
+_cell_length_b   3.61668400
+_cell_length_c   13.78966238
+_cell_angle_alpha   89.99703727
+_cell_angle_beta   90.00103914
+_cell_angle_gamma   119.99911342
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsGdO2
+_chemical_formula_sum   'Cs2 Gd2 O4'
+_cell_volume   156.21305220
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.333269  0.666602  0.749949  1.0
+  Cs  Cs2  1  0.666754  0.333277  0.250049  1.0
+  Gd  Gd3  1  0.999953  0.999844  0.000007  1.0
+  Gd  Gd4  1  0.999984  0.000227  0.499992  1.0
+  O  O5  1  0.333335  0.666738  0.416672  1.0
+  O  O6  1  0.333322  0.666618  0.083211  1.0
+  O  O7  1  0.666693  0.333362  0.583322  1.0
+  O  O8  1  0.666690  0.333332  0.916799  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbAgO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90333548
+_cell_length_b   7.81989081
+_cell_length_c   7.81989080
+_cell_angle_alpha   81.80900766
+_cell_angle_beta   67.82378573
+_cell_angle_gamma   67.82378573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAgO
+_chemical_formula_sum   'Rb4 Ag4 O4'
+_cell_volume   309.56117042
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb1  1  0.935025  0.814946  0.814946  1.0
+  Rb  Rb2  1  0.250029  0.814946  0.185054  1.0
+  Rb  Rb3  1  0.250029  0.185054  0.814946  1.0
+  Rb  Rb4  1  0.564917  0.185054  0.185054  1.0
+  Ag  Ag5  1  0.894251  0.500000  0.211498  1.0
+  Ag  Ag6  1  0.894251  0.211498  0.500000  1.0
+  Ag  Ag7  1  0.605749  0.788502  0.500000  1.0
+  Ag  Ag8  1  0.605749  0.500000  0.788502  1.0
+  O  O9  1  0.461829  0.788186  0.788186  1.0
+  O  O10  1  0.749985  0.788186  0.211814  1.0
+  O  O11  1  0.749985  0.211814  0.788186  1.0
+  O  O12  1  0.038201  0.211814  0.211814  1.0

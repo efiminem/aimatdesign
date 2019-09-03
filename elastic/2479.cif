@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ca2SiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22402253
+_cell_length_b   7.09131978
+_cell_length_c   6.25131263
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   96.03199294
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2SiO4
+_chemical_formula_sum   'Ca8 Si4 O16'
+_cell_volume   362.55289114
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca1  1  0.648132  0.107659  0.830107  1.0
+  Ca  Ca2  1  0.851868  0.607659  0.669893  1.0
+  Ca  Ca3  1  0.195011  0.935389  0.658474  1.0
+  Ca  Ca4  1  0.148132  0.392341  0.330107  1.0
+  Ca  Ca5  1  0.304989  0.435389  0.841526  1.0
+  Ca  Ca6  1  0.351868  0.892341  0.169893  1.0
+  Ca  Ca7  1  0.695011  0.564611  0.158474  1.0
+  Ca  Ca8  1  0.804989  0.064611  0.341526  1.0
+  Si  Si9  1  0.498237  0.287664  0.339693  1.0
+  Si  Si10  1  0.001763  0.787664  0.160307  1.0
+  Si  Si11  1  0.998237  0.212336  0.839693  1.0
+  Si  Si12  1  0.501763  0.712336  0.660307  1.0
+  O  O13  1  0.458731  0.875309  0.834756  1.0
+  O  O14  1  0.373366  0.209257  0.510238  1.0
+  O  O15  1  0.413547  0.465562  0.197636  1.0
+  O  O16  1  0.683655  0.343377  0.451160  1.0
+  O  O17  1  0.816345  0.843377  0.048840  1.0
+  O  O18  1  0.086453  0.965562  0.302364  1.0
+  O  O19  1  0.958731  0.624691  0.334756  1.0
+  O  O20  1  0.126634  0.709257  0.989762  1.0
+  O  O21  1  0.873366  0.290743  0.010238  1.0
+  O  O22  1  0.041269  0.375309  0.665244  1.0
+  O  O23  1  0.913547  0.034438  0.697636  1.0
+  O  O24  1  0.183655  0.156623  0.951160  1.0
+  O  O25  1  0.316345  0.656623  0.548840  1.0
+  O  O26  1  0.586453  0.534438  0.802364  1.0
+  O  O27  1  0.626634  0.790743  0.489762  1.0
+  O  O28  1  0.541269  0.124691  0.165244  1.0
